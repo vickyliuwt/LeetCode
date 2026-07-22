@@ -3,10 +3,17 @@ class Solution:
         count = {}
         for num in nums:
             count[num] = count.get(num, 0) + 1
-        sorted_nums = sorted(count.keys(),
-                                key=lambda x: count[x],
-                                reverse=True)
-        return sorted_nums[:k]   
+        buckets = [[] for _ in range(len(nums) + 1)]
+        for num, freq in count.items():
+            buckets[freq].append(num)
+        result = []
+        for i in range(len(buckets) - 1, 0, -1):
+            for num in buckets[i]:
+                result.append(num)
+                if len(result) == k:
+                    return result
+        return result
+
 
 
            
