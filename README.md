@@ -8,6 +8,7 @@
 | [0041-first-missing-positive](https://github.com/vickyliu03/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/vickyliu03/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/vickyliu03/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vickyliuwt/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Two Pointers
@@ -61,4 +62,20 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vickyliuwt/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
