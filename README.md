@@ -36,6 +36,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vickyliuwt/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/vickyliu03/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,8 +97,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vickyliuwt/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vickyliuwt/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
