@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/vickyliu03/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/vickyliu03/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/vickyliuwt/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/vickyliu03/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vickyliuwt/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -83,6 +84,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/vickyliuwt/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Graph Theory
@@ -103,4 +105,8 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vickyliuwt/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/vickyliuwt/LeetCode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
