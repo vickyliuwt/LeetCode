@@ -83,11 +83,13 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/vickyliuwt/LeetCode/tree/main/0207-course-schedule/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/vickyliuwt/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -150,4 +152,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/vickyliuwt/LeetCode/tree/main/0394-decode-string/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
