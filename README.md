@@ -119,6 +119,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/vickyliuwt/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/vickyliuwt/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/vickyliuwt/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/vickyliuwt/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -206,6 +208,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/vickyliuwt/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +221,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/vickyliuwt/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
