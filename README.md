@@ -59,6 +59,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +182,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0394-decode-string](https://github.com/vickyliuwt/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,4 +304,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
