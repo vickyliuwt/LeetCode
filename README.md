@@ -30,6 +30,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vickyliuwt/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0739-daily-temperatures](https://github.com/vickyliuwt/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -55,6 +56,7 @@
 | [0152-maximum-product-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +143,7 @@
 | [0207-course-schedule](https://github.com/vickyliuwt/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -282,10 +285,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
