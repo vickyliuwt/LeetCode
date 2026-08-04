@@ -122,6 +122,7 @@
 | [0226-invert-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +214,7 @@
 | [0226-invert-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +230,7 @@
 | [0226-invert-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,4 +253,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
