@@ -13,6 +13,7 @@
 | [0045-jump-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/vickyliuwt/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/vickyliuwt/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/vickyliuwt/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/vickyliuwt/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -47,6 +48,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vickyliuwt/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vickyliu03/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/vickyliuwt/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/vickyliuwt/LeetCode/tree/main/0072-edit-distance/) | Medium |
@@ -92,6 +94,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vickyliuwt/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/vickyliuwt/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
