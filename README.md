@@ -30,6 +30,7 @@
 | [0152-maximum-product-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vickyliuwt/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/vickyliuwt/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/vickyliuwt/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vickyliuwt/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -46,6 +47,7 @@
 | [0031-next-permutation](https://github.com/vickyliuwt/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vickyliu03/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/vickyliuwt/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0189-rotate-array](https://github.com/vickyliuwt/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +206,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/vickyliuwt/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0189-rotate-array](https://github.com/vickyliuwt/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
