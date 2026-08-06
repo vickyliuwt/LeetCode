@@ -1,7 +1,7 @@
 class Solution:
     def calculate(self, s: str) -> int:
         stack = []
-        res, num, sign = 0, 0, 1        # 一行同时赋 3 个变量（Python 语法糖）
+        res, num, sign = 0, 0, 1       
         for ch in s:
             if ch.isdigit():
                 num = num * 10 + int(ch)
