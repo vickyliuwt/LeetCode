@@ -1,6 +1,5 @@
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
-        # Stores the last index of each character in 's'
         last_occurrence = [0] * 26
         for i, char in enumerate(s):
             last_occurrence[ord(char) - ord("a")] = i
@@ -13,7 +12,6 @@ class Solution:
             partition_end = max(
                 partition_end, last_occurrence[ord(char) - ord("a")]
             )
-            # End of the current partition
             if i == partition_end:
                 partition_sizes.append(i - partition_start + 1)
                 partition_start = i + 1
