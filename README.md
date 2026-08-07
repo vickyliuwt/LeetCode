@@ -40,6 +40,7 @@
 | [0238-product-of-array-except-self](https://github.com/vickyliuwt/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -61,6 +62,7 @@
 | [0125-valid-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/vickyliuwt/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -250,6 +252,7 @@
 | [0074-search-a-2d-matrix](https://github.com/vickyliuwt/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vickyliuwt/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vickyliuwt/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Design
@@ -373,6 +376,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/vickyliuwt/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,4 +394,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
