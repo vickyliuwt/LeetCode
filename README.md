@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/vickyliuwt/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/vickyliuwt/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vickyliuwt/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/vickyliuwt/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/vickyliuwt/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/vickyliuwt/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/vickyliu03/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
@@ -64,6 +65,7 @@
 | [0015-3sum](https://github.com/vickyliuwt/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/vickyliuwt/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vickyliuwt/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/vickyliuwt/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/vickyliuwt/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vickyliu03/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/vickyliuwt/LeetCode/tree/main/0075-sort-colors/) | Medium |
