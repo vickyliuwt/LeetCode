@@ -1,7 +1,7 @@
 
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# LeetCode Topics Weiting
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
