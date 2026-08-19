@@ -517,4 +517,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vickyliuwt/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/vickyliuwt/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
