@@ -36,6 +36,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/vickyliuwt/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/vickyliuwt/LeetCode/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/vickyliuwt/LeetCode/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/vickyliuwt/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/vickyliuwt/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -393,6 +394,7 @@
 | [0055-jump-game](https://github.com/vickyliuwt/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/vickyliuwt/LeetCode/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/vickyliuwt/LeetCode/tree/main/0135-candy/) | Hard |
 | [0517-super-washing-machines](https://github.com/vickyliuwt/LeetCode/tree/main/0517-super-washing-machines/) | Hard |
 | [0561-array-partition](https://github.com/vickyliuwt/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
