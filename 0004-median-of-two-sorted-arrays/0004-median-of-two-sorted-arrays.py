@@ -1,31 +1,31 @@
+from typing import List
+
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        A, B = nums1, nums2
+        # 保证 nums1 是较短的数组，防止 j 越界 + 优化复杂度
+        if len(nums1) > len(nums2):
+            nums1, nums2 = nums2, nums1
 
-        if len(A) > len(B):
-            A, B = B, A
+        m, n = len(nums1), len(nums2)
+        half = (m + n + 1) // 2          # 左半边应该装几个数
+        lo, hi = 0, m                    # 在 [0, m] 里二分「切几个」
 
-        m,n = len(A), len(B)
-        total = m + n
-        half = total // 2
+        while lo <= hi:
+            i = (lo + hi) // 2           # nums1 左半拿 i 个
+            j = half - i                 # nums2 左半自动拿 j 个
 
-        low, high = 0, m
-        while low <= high:
-            i = (low + high) // 2
-            j = half - i
+            maxLeft1  = nums1[i - 1] if i > 0 else float('-inf')
+            minRight1 = nums1[i]     if i < m else float('inf')
+            maxLeft2  = nums2[j - 1] if j > 0 else float('-inf')
+            minRight2 = nums2[j]     if j < n else float('inf')
 
-            Aleft = A[i-1] if i > 0 else float('-inf')
-            Aright = A[i] if i < m else float('inf')
-            Bleft = B[j -1] if j > 0 else float('-inf')
-            Bright = B[j] if j < n else float('inf')
-
-            if Aleft <= Bright and Bleft <= Aright:
-                if total % 2 == 1:
-                    return float(min(Aright, Bright))
-                else:
-                    return (max(Aleft, Bleft) + min(Aright, Bright)) / 2
-            elif Aleft > Bright:
-                high = i - 1
+            if maxLeft1 <= minRight2 and maxLeft2 <= minRight1:
+                if (m + n) % 2 == 1:
+                    return float(max(maxLeft1, maxLeft2))
+                return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2.0
+            elif maxLeft1 > minRight2:
+                hi = i - 1               # nums1 左半拿多了
             else:
-                low = i + 1
+                lo = i + 1               # nums1 左半拿少了
+
         return 0.0
