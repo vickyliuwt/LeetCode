@@ -73,6 +73,7 @@
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/vickyliuwt/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vickyliuwt/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vickyliuwt/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vickyliuwt/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vickyliuwt/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +311,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vickyliuwt/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vickyliuwt/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vickyliuwt/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Math
 | Problem Name | Difficulty |
