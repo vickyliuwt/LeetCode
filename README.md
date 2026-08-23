@@ -171,6 +171,7 @@
 | [0205-isomorphic-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/vickyliuwt/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -203,6 +204,7 @@
 | [0088-merge-sorted-array](https://github.com/vickyliuwt/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/vickyliuwt/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/vickyliuwt/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/vickyliuwt/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/vickyliuwt/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/vickyliuwt/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -319,6 +321,7 @@
 | [0205-isomorphic-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0224-basic-calculator](https://github.com/vickyliuwt/LeetCode/tree/main/0224-basic-calculator/) | Hard |
+| [0242-valid-anagram](https://github.com/vickyliuwt/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/vickyliuwt/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/vickyliuwt/LeetCode/tree/main/0383-ransom-note/) | Easy |
