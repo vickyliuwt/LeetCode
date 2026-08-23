@@ -168,6 +168,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0383-ransom-note](https://github.com/vickyliuwt/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vickyliuwt/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
@@ -218,6 +219,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/vickyliuwt/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/vickyliuwt/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -311,6 +313,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0224-basic-calculator](https://github.com/vickyliuwt/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0344-reverse-string](https://github.com/vickyliuwt/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/vickyliuwt/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/vickyliuwt/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
