@@ -154,6 +154,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vickyliuwt/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/vickyliuwt/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vickyliuwt/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vickyliuwt/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/vickyliu03/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/vickyliuwt/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vickyliuwt/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -290,6 +291,7 @@
 | [0014-longest-common-prefix](https://github.com/vickyliuwt/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vickyliuwt/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/vickyliuwt/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/vickyliuwt/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/vickyliuwt/LeetCode/tree/main/0067-add-binary/) | Easy |
@@ -312,6 +314,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vickyliuwt/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vickyliuwt/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vickyliuwt/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
