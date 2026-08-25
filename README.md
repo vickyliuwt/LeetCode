@@ -95,6 +95,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/vickyliuwt/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vickyliu03/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/vickyliuwt/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/vickyliuwt/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vickyliuwt/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -464,6 +465,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/vickyliuwt/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Binary Lifting
