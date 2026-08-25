@@ -98,6 +98,7 @@
 | [0061-rotate-list](https://github.com/vickyliuwt/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/vickyliuwt/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0086-partition-list](https://github.com/vickyliuwt/LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vickyliuwt/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -466,6 +467,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/vickyliuwt/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/vickyliuwt/LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Binary Lifting
