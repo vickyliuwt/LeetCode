@@ -143,6 +143,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/vickyliu03/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/vickyliuwt/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/vickyliu03/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/vickyliuwt/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -319,6 +320,7 @@
 | [0058-length-of-last-word](https://github.com/vickyliuwt/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/vickyliuwt/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/vickyliuwt/LeetCode/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/vickyliuwt/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/vickyliuwt/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/vickyliuwt/LeetCode/tree/main/0127-word-ladder/) | Hard |
