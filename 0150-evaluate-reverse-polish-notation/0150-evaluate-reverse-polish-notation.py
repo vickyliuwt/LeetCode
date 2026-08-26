@@ -1,12 +1,5 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
-        operations = {
-            "+": lambda a, b: a + b,
-            "-": lambda a, b: a - b,
-            "/": lambda a, b: int(a / b),
-            "*": lambda a, b: a * b,
-        }
-
         current_position = 0
 
         while len(tokens) > 1:
@@ -21,8 +14,14 @@ class Solution:
             number_2 = int(tokens[current_position - 1])
 
             # Calculate the result to overwrite the operator with.
-            operation = operations[operator]
-            tokens[current_position] = operation(number_1, number_2)
+            if operator == "+":
+                tokens[current_position] = number_1 + number_2
+            elif operator == "-":
+                tokens[current_position] = number_1 - number_2
+            elif operator == "*":
+                tokens[current_position] = number_1 * number_2
+            else:
+                tokens[current_position] = int(number_1 / number_2)
 
             # Remove the numbers and move the pointer to the position
             # after the new number we just added.
