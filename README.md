@@ -608,6 +608,7 @@
 | [0137-single-number-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/vickyliuwt/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
