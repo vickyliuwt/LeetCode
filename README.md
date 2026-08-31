@@ -413,6 +413,7 @@
 | [0048-rotate-image](https://github.com/vickyliuwt/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/vickyliuwt/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/vickyliuwt/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/vickyliuwt/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/vickyliuwt/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vickyliuwt/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
@@ -435,6 +436,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vickyliuwt/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/vickyliuwt/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/vickyliuwt/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/vickyliuwt/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vickyliuwt/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/vickyliuwt/LeetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -706,4 +708,8 @@
 | ------- | ------- |
 | [0077-combinations](https://github.com/vickyliuwt/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/vickyliuwt/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
