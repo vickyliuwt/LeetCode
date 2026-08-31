@@ -27,6 +27,7 @@
 | [0056-merge-intervals](https://github.com/vickyliuwt/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/vickyliuwt/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0064-minimum-path-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/vickyliuwt/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/vickyliuwt/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/vickyliuwt/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/vickyliuwt/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -410,6 +411,7 @@
 | [0012-integer-to-roman](https://github.com/vickyliuwt/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vickyliuwt/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/vickyliuwt/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/vickyliuwt/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/vickyliuwt/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/vickyliuwt/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vickyliuwt/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
