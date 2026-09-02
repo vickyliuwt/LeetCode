@@ -723,6 +723,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0052-n-queens-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/vickyliuwt/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 ## Newton's Method
@@ -741,4 +742,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/vickyliuwt/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
