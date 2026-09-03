@@ -411,6 +411,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/vickyliuwt/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/vickyliuwt/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sliding Window
@@ -447,6 +448,7 @@
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/vickyliuwt/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -749,10 +751,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/vickyliuwt/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/vickyliuwt/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
