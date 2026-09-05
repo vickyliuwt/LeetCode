@@ -75,6 +75,7 @@
 | [0289-game-of-life](https://github.com/vickyliuwt/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vickyliuwt/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -568,6 +569,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/vickyliuwt/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/vickyliuwt/LeetCode/tree/main/0135-candy/) | Hard |
+| [0334-increasing-triplet-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vickyliuwt/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/vickyliuwt/LeetCode/tree/main/0502-ipo/) | Hard |
@@ -621,6 +623,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
