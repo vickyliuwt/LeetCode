@@ -130,6 +130,7 @@
 | [0344-reverse-string](https://github.com/vickyliuwt/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/vickyliuwt/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/vickyliuwt/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Dynamic Programming
@@ -414,6 +415,7 @@
 | [0399-evaluate-division](https://github.com/vickyliuwt/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/vickyliuwt/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/vickyliuwt/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
