@@ -103,6 +103,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vickyliuwt/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vickyliuwt/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/vickyliuwt/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/vickyliuwt/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vickyliuwt/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vickyliuwt/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -683,6 +684,7 @@
 | [0410-split-array-largest-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/vickyliuwt/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/vickyliuwt/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
