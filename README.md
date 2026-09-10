@@ -439,6 +439,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/vickyliuwt/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/vickyliuwt/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [0649-dota2-senate](https://github.com/vickyliuwt/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -613,6 +614,7 @@
 | [0517-super-washing-machines](https://github.com/vickyliuwt/LeetCode/tree/main/0517-super-washing-machines/) | Hard |
 | [0561-array-partition](https://github.com/vickyliuwt/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0649-dota2-senate](https://github.com/vickyliuwt/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Linked List
@@ -810,6 +812,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0649-dota2-senate](https://github.com/vickyliuwt/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/vickyliuwt/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
