@@ -336,6 +336,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/vickyliuwt/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -569,6 +570,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -594,6 +596,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
