@@ -337,6 +337,7 @@
 | [0547-number-of-provinces](https://github.com/vickyliuwt/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +364,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/vickyliuwt/LeetCode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,6 +573,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -597,6 +600,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
