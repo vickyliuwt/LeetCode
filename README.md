@@ -576,6 +576,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -605,6 +606,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -616,6 +618,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
