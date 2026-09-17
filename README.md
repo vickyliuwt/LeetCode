@@ -108,6 +108,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/vickyliuwt/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/vickyliuwt/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/vickyliuwt/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vickyliuwt/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vickyliuwt/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -371,6 +372,7 @@
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/vickyliuwt/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -398,6 +400,7 @@
 | [0427-construct-quad-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/vickyliuwt/LeetCode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/vickyliuwt/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
