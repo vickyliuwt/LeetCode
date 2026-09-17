@@ -19,5 +19,4 @@ class SmallestInfiniteSet:
     def addBack(self, num: int) -> None:
         if self.current_integer <= num or num in self.added_integers:
             return
-        # We push 'num' in the sorted-set if it isn't already present.
         self.added_integers.add(num)
