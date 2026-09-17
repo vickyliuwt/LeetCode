@@ -244,6 +244,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/vickyliuwt/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vickyliuwt/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/vickyliuwt/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vickyliuwt/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Divide and Conquer
@@ -293,6 +294,7 @@
 | [0502-ipo](https://github.com/vickyliuwt/LeetCode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/vickyliuwt/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/vickyliuwt/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -540,6 +542,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/vickyliuwt/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/vickyliuwt/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/vickyliuwt/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -857,4 +860,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/vickyliuwt/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/vickyliuwt/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 <!---LeetCode Topics End-->
