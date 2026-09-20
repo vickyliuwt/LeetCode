@@ -187,6 +187,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/vickyliuwt/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/vickyliuwt/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vickyliuwt/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -523,6 +524,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/vickyliuwt/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/vickyliuwt/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -704,6 +706,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/vickyliuwt/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/vickyliuwt/LeetCode/tree/main/0139-word-break/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/vickyliuwt/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
