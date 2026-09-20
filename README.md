@@ -75,6 +75,7 @@
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0289-game-of-life](https://github.com/vickyliuwt/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0311-sparse-matrix-multiplication](https://github.com/vickyliuwt/LeetCode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -239,6 +240,7 @@
 | [0242-valid-anagram](https://github.com/vickyliuwt/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
+| [0311-sparse-matrix-multiplication](https://github.com/vickyliuwt/LeetCode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/vickyliuwt/LeetCode/tree/main/0383-ransom-note/) | Easy |
@@ -412,6 +414,7 @@
 | [0221-maximal-square](https://github.com/vickyliuwt/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/vickyliuwt/LeetCode/tree/main/0289-game-of-life/) | Medium |
+| [0311-sparse-matrix-multiplication](https://github.com/vickyliuwt/LeetCode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vickyliuwt/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0427-construct-quad-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/vickyliuwt/LeetCode/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -891,4 +894,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/vickyliuwt/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Linear Algebra
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0311-sparse-matrix-multiplication](https://github.com/vickyliuwt/LeetCode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 <!---LeetCode Topics End-->
