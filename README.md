@@ -238,6 +238,7 @@
 | [0219-contains-duplicate-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/vickyliuwt/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/vickyliuwt/LeetCode/tree/main/0383-ransom-note/) | Easy |
@@ -315,6 +316,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/vickyliuwt/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/vickyliuwt/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
@@ -460,6 +462,7 @@
 | [0224-basic-calculator](https://github.com/vickyliuwt/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/vickyliuwt/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0344-reverse-string](https://github.com/vickyliuwt/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/vickyliuwt/LeetCode/tree/main/0383-ransom-note/) | Easy |
