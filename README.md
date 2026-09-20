@@ -107,6 +107,7 @@
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/vickyliuwt/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vickyliuwt/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vickyliuwt/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -298,6 +299,7 @@
 | [0502-ipo](https://github.com/vickyliuwt/LeetCode/tree/main/0502-ipo/) | Hard |
 | [0561-array-partition](https://github.com/vickyliuwt/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/vickyliuwt/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/vickyliuwt/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
@@ -312,6 +314,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vickyliuwt/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0502-ipo](https://github.com/vickyliuwt/LeetCode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/vickyliuwt/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/vickyliuwt/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vickyliuwt/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -485,6 +488,7 @@
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vickyliuwt/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/vickyliuwt/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/vickyliuwt/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -560,6 +564,7 @@
 | [0410-split-array-largest-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/vickyliuwt/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vickyliuwt/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Design
@@ -580,6 +585,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vickyliuwt/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
+| [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/vickyliuwt/LeetCode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
