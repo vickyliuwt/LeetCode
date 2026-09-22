@@ -186,6 +186,7 @@
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0338-counting-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -773,6 +774,7 @@
 | [0191-number-of-1-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/vickyliuwt/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/vickyliuwt/LeetCode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
