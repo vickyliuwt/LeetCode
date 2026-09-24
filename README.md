@@ -86,6 +86,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vickyliuwt/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0427-construct-quad-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/vickyliuwt/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vickyliuwt/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/vickyliuwt/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/vickyliuwt/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
@@ -190,6 +191,7 @@
 | [0392-is-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/vickyliuwt/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/vickyliuwt/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vickyliuwt/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/vickyliuwt/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -298,6 +300,7 @@
 | [0242-valid-anagram](https://github.com/vickyliuwt/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/vickyliuwt/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/vickyliuwt/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vickyliuwt/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/vickyliuwt/LeetCode/tree/main/0502-ipo/) | Hard |
 | [0561-array-partition](https://github.com/vickyliuwt/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -686,6 +689,7 @@
 | [0135-candy](https://github.com/vickyliuwt/LeetCode/tree/main/0135-candy/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/vickyliuwt/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vickyliuwt/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/vickyliuwt/LeetCode/tree/main/0502-ipo/) | Hard |
 | [0517-super-washing-machines](https://github.com/vickyliuwt/LeetCode/tree/main/0517-super-washing-machines/) | Hard |
