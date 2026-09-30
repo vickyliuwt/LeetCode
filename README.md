@@ -489,6 +489,7 @@
 | [0044-wildcard-matching](https://github.com/vickyliuwt/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/vickyliuwt/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/vickyliuwt/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/vickyliuwt/LeetCode/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/vickyliuwt/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/vickyliuwt/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/vickyliuwt/LeetCode/tree/main/0071-simplify-path/) | Medium |
