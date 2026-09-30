@@ -554,6 +554,7 @@
 | [0043-multiply-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/vickyliuwt/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/vickyliuwt/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/vickyliuwt/LeetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/vickyliuwt/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/vickyliuwt/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/vickyliuwt/LeetCode/tree/main/0069-sqrtx/) | Easy |
@@ -632,6 +633,7 @@
 | [0010-regular-expression-matching](https://github.com/vickyliuwt/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/vickyliuwt/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/vickyliuwt/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/vickyliuwt/LeetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/vickyliuwt/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0394-decode-string](https://github.com/vickyliuwt/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/vickyliuwt/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
