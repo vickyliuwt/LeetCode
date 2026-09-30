@@ -18,6 +18,7 @@
 | [0035-search-insert-position](https://github.com/vickyliuwt/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/vickyliuwt/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/vickyliuwt/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0040-combination-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/vickyliu03/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/vickyliu03/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
@@ -894,6 +895,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/vickyliuwt/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0040-combination-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0052-n-queens-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/vickyliuwt/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
