@@ -480,6 +480,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vickyliuwt/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0038-count-and-say](https://github.com/vickyliuwt/LeetCode/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/vickyliuwt/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/vickyliuwt/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/vickyliuwt/LeetCode/tree/main/0067-add-binary/) | Easy |
@@ -544,6 +545,7 @@
 | [0012-integer-to-roman](https://github.com/vickyliuwt/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vickyliuwt/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/vickyliuwt/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/vickyliuwt/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/vickyliuwt/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/vickyliuwt/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -564,6 +566,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/vickyliuwt/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/vickyliuwt/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/vickyliuwt/LeetCode/tree/main/0068-text-justification/) | Hard |
