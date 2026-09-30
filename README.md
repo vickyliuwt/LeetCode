@@ -170,6 +170,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vickyliuwt/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/vickyliuwt/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/vickyliu03/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/vickyliuwt/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/vickyliuwt/LeetCode/tree/main/0055-jump-game/) | Medium |
@@ -481,6 +482,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vickyliuwt/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0038-count-and-say](https://github.com/vickyliuwt/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/vickyliuwt/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/vickyliuwt/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/vickyliuwt/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/vickyliuwt/LeetCode/tree/main/0067-add-binary/) | Easy |
@@ -623,6 +625,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vickyliuwt/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/vickyliuwt/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0044-wildcard-matching](https://github.com/vickyliuwt/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/vickyliuwt/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0224-basic-calculator](https://github.com/vickyliuwt/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0394-decode-string](https://github.com/vickyliuwt/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -703,6 +706,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/vickyliuwt/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/vickyliuwt/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/vickyliuwt/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
