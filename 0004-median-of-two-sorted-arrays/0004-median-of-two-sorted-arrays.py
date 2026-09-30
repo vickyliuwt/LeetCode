@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
         # 保证 nums1 是较短的数组，防止 j 越界 + 优化复杂度
