@@ -569,6 +569,7 @@
 | [0067-add-binary](https://github.com/vickyliuwt/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/vickyliuwt/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/vickyliuwt/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/vickyliuwt/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/vickyliuwt/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vickyliuwt/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
@@ -819,6 +820,7 @@
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/vickyliuwt/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/vickyliuwt/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/vickyliuwt/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/vickyliuwt/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0190-reverse-bits/) | Easy |
@@ -928,6 +930,7 @@
 | [0047-permutations-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0052-n-queens-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/vickyliuwt/LeetCode/tree/main/0077-combinations/) | Medium |
+| [0089-gray-code](https://github.com/vickyliuwt/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 ## Newton's Method
