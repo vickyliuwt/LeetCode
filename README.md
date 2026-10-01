@@ -183,6 +183,7 @@
 | [0070-climbing-stairs](https://github.com/vickyliuwt/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/vickyliuwt/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/vickyliuwt/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0087-scramble-string](https://github.com/vickyliuwt/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [0097-interleaving-string](https://github.com/vickyliuwt/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0118-pascals-triangle](https://github.com/vickyliuwt/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/vickyliuwt/LeetCode/tree/main/0120-triangle/) | Medium |
@@ -500,6 +501,7 @@
 | [0068-text-justification](https://github.com/vickyliuwt/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/vickyliuwt/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/vickyliuwt/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0087-scramble-string](https://github.com/vickyliuwt/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [0097-interleaving-string](https://github.com/vickyliuwt/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/vickyliuwt/LeetCode/tree/main/0127-word-ladder/) | Hard |
