@@ -187,6 +187,7 @@
 | [0087-scramble-string](https://github.com/vickyliuwt/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/vickyliuwt/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/vickyliuwt/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0118-pascals-triangle](https://github.com/vickyliuwt/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/vickyliuwt/LeetCode/tree/main/0120-triangle/) | Medium |
@@ -575,6 +576,7 @@
 | [0069-sqrtx](https://github.com/vickyliuwt/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/vickyliuwt/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/vickyliuwt/LeetCode/tree/main/0089-gray-code/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/vickyliuwt/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vickyliuwt/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
@@ -660,6 +662,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vickyliuwt/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/vickyliuwt/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vickyliuwt/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -693,6 +696,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vickyliuwt/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/vickyliuwt/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vickyliuwt/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -724,6 +728,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
