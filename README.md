@@ -109,6 +109,7 @@
 | [0735-asteroid-collision](https://github.com/vickyliuwt/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vickyliuwt/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/vickyliuwt/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0752-open-the-lock](https://github.com/vickyliuwt/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vickyliuwt/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vickyliuwt/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/vickyliuwt/LeetCode/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -284,6 +285,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vickyliuwt/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0752-open-the-lock](https://github.com/vickyliuwt/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vickyliuwt/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -437,6 +439,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/vickyliuwt/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0752-open-the-lock](https://github.com/vickyliuwt/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vickyliuwt/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/vickyliuwt/LeetCode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -543,6 +546,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/vickyliuwt/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/vickyliuwt/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+| [0752-open-the-lock](https://github.com/vickyliuwt/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -905,6 +909,7 @@
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/vickyliuwt/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/vickyliuwt/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0752-open-the-lock](https://github.com/vickyliuwt/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
