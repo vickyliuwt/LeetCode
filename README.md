@@ -243,6 +243,7 @@
 | [0678-valid-parenthesis-string](https://github.com/vickyliuwt/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/vickyliuwt/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vickyliuwt/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -555,6 +556,7 @@
 | [0678-valid-parenthesis-string](https://github.com/vickyliuwt/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0752-open-the-lock](https://github.com/vickyliuwt/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [0856-score-of-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -905,6 +907,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/vickyliuwt/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
