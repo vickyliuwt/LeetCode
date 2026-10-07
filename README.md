@@ -58,6 +58,7 @@
 | [0136-single-number](https://github.com/vickyliuwt/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/vickyliuwt/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/vickyliuwt/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vickyliuwt/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -206,6 +207,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/vickyliuwt/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vickyliuwt/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/vickyliuwt/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -280,6 +282,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/vickyliuwt/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/vickyliuwt/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/vickyliuwt/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/vickyliuwt/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/vickyliuwt/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/vickyliuwt/LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -544,6 +547,7 @@
 | [0125-valid-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/vickyliuwt/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/vickyliuwt/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -680,6 +684,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/vickyliuwt/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/vickyliuwt/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vickyliuwt/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
@@ -848,6 +853,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/vickyliuwt/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/vickyliuwt/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/vickyliuwt/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Brute-Force Search
 | Problem Name | Difficulty |
@@ -1012,6 +1018,7 @@
 | [0093-restore-ip-addresses](https://github.com/vickyliuwt/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0140-word-break-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
