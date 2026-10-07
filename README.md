@@ -446,6 +446,7 @@
 | [0210-course-schedule-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/vickyliuwt/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vickyliuwt/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -552,6 +553,7 @@
 | [0242-valid-anagram](https://github.com/vickyliuwt/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/vickyliuwt/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/vickyliuwt/LeetCode/tree/main/0383-ransom-note/) | Easy |
@@ -1012,6 +1014,7 @@
 | [0113-path-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
