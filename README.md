@@ -642,6 +642,7 @@
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/vickyliuwt/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/vickyliuwt/LeetCode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/vickyliuwt/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1927-sum-game](https://github.com/vickyliuwt/LeetCode/tree/main/1927-sum-game/) | Medium |
@@ -718,6 +719,7 @@
 | [0224-basic-calculator](https://github.com/vickyliuwt/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0394-decode-string](https://github.com/vickyliuwt/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/vickyliuwt/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/vickyliuwt/LeetCode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -929,6 +931,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/vickyliuwt/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0338-counting-bits/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/vickyliuwt/LeetCode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vickyliuwt/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/vickyliuwt/LeetCode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
