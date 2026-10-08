@@ -427,6 +427,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0399-evaluate-division](https://github.com/vickyliuwt/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vickyliuwt/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -852,6 +853,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0143-reorder-list](https://github.com/vickyliuwt/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Binary Lifting
@@ -1098,4 +1100,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/vickyliuwt/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
