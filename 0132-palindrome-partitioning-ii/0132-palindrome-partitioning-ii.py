@@ -1,39 +1,41 @@
 class Solution:
     def __init__(self):
-        self.memoCuts = []
-        self.memoPalindrome = []
+        self.memo_cuts = []
+        self.memo_palindrome = []
 
     def minCut(self, s: str) -> int:
-        self.memoCuts = [[None] * len(s) for _ in range(len(s))]
-        self.memoPalindrome = [[None] * len(s) for _ in range(len(s))]
-        return self.findMinimumCut(s, 0, len(s) - 1, len(s) - 1)
+        self.memo_cuts = [None] * len(s)
+        self.memo_palindrome = [[None] * len(s) for _ in range(len(s))]
+        return self.find_minimum_cut(s, 0, len(s) - 1, len(s) - 1)
 
-    def findMinimumCut(self, s, start, end, minimumCut):
+    def find_minimum_cut(
+        self, s: str, start: int, end: int, minimum_cut: int
+    ) -> int:
         # base case
-        if start == end or self.isPalindrome(s, start, end):
+        if start == end or self.is_palindrome(s, start, end):
             return 0
-        # check for results in memoCuts
-        if self.memoCuts[start][end] != None:
-            return self.memoCuts[start][end]
-        for currentEndIndex in range(start, end + 1):
-            if self.isPalindrome(s, start, currentEndIndex):
-                minimumCut = min(
-                    minimumCut,
+        # check for results in memo_cuts
+        if self.memo_cuts[start] is not None:
+            return self.memo_cuts[start]
+        for current_end_index in range(start, end + 1):
+            if self.is_palindrome(s, start, current_end_index):
+                minimum_cut = min(
+                    minimum_cut,
                     1
-                    + self.findMinimumCut(
-                        s, currentEndIndex + 1, end, minimumCut
+                    + self.find_minimum_cut(
+                        s, current_end_index + 1, end, minimum_cut
                     ),
                 )
-        self.memoCuts[start][end] = minimumCut
-        return self.memoCuts[start][end]
+        self.memo_cuts[start] = minimum_cut
+        return minimum_cut
 
-    def isPalindrome(self, s, start, end):
+    def is_palindrome(self, s: str, start: int, end: int) -> bool:
         if start >= end:
             return True
-        # check for results in memoPalindrome
-        if self.memoPalindrome[start][end] != None:
-            return self.memoPalindrome[start][end]
-        self.memoPalindrome[start][end] = (
-            s[start] == s[end]
-        ) and self.isPalindrome(s, start + 1, end - 1)
-        return self.memoPalindrome[start][end]
+        # check for results in memo_palindrome
+        if self.memo_palindrome[start][end] is not None:
+            return self.memo_palindrome[start][end]
+        self.memo_palindrome[start][end] = s[start] == s[
+            end
+        ] and self.is_palindrome(s, start + 1, end - 1)
+        return self.memo_palindrome[start][end]
