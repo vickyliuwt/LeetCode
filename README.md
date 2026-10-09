@@ -64,6 +64,7 @@
 | [0152-maximum-product-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vickyliuwt/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0157-read-n-characters-given-read4](https://github.com/vickyliuwt/LeetCode/tree/main/0157-read-n-characters-given-read4/) | Easy |
 | [0162-find-peak-element](https://github.com/vickyliuwt/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vickyliuwt/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/vickyliuwt/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -661,6 +662,7 @@
 | [0059-spiral-matrix-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/vickyliuwt/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/vickyliuwt/LeetCode/tree/main/0068-text-justification/) | Hard |
+| [0157-read-n-characters-given-read4](https://github.com/vickyliuwt/LeetCode/tree/main/0157-read-n-characters-given-read4/) | Easy |
 | [0289-game-of-life](https://github.com/vickyliuwt/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/vickyliuwt/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0682-baseball-game](https://github.com/vickyliuwt/LeetCode/tree/main/0682-baseball-game/) | Easy |
@@ -1107,6 +1109,7 @@
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0157-read-n-characters-given-read4](https://github.com/vickyliuwt/LeetCode/tree/main/0157-read-n-characters-given-read4/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/vickyliuwt/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Linear Algebra
 | Problem Name | Difficulty |
