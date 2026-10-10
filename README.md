@@ -139,6 +139,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vickyliuwt/LeetCode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vickyliuwt/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vickyliuwt/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vickyliuwt/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vickyliuwt/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/vickyliuwt/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -377,6 +378,7 @@
 | [1834-single-threaded-cpu](https://github.com/vickyliuwt/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vickyliuwt/LeetCode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vickyliuwt/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vickyliuwt/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/vickyliuwt/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Heap (Priority Queue)
@@ -389,6 +391,7 @@
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/vickyliuwt/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vickyliuwt/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/vickyliuwt/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vickyliuwt/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/vickyliuwt/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -705,6 +708,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vickyliuwt/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vickyliuwt/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -866,6 +870,7 @@
 | [1537-get-the-maximum-score](https://github.com/vickyliuwt/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vickyliuwt/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/vickyliuwt/LeetCode/tree/main/1927-sum-game/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vickyliuwt/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/vickyliuwt/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vickyliuwt/LeetCode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
