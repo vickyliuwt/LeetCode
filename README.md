@@ -493,6 +493,7 @@
 | [0909-snakes-and-ladders](https://github.com/vickyliuwt/LeetCode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1197-minimum-knight-moves](https://github.com/vickyliuwt/LeetCode/tree/main/1197-minimum-knight-moves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/vickyliuwt/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -1012,6 +1013,7 @@
 | [0127-word-ladder](https://github.com/vickyliuwt/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/vickyliuwt/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/vickyliuwt/LeetCode/tree/main/0752-open-the-lock/) | Medium |
+| [1197-minimum-knight-moves](https://github.com/vickyliuwt/LeetCode/tree/main/1197-minimum-knight-moves/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1150,4 +1152,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vickyliuwt/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+## Heuristic Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1197-minimum-knight-moves](https://github.com/vickyliuwt/LeetCode/tree/main/1197-minimum-knight-moves/) | Medium |
+## A* Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1197-minimum-knight-moves](https://github.com/vickyliuwt/LeetCode/tree/main/1197-minimum-knight-moves/) | Medium |
 <!---LeetCode Topics End-->
