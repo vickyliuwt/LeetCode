@@ -167,6 +167,7 @@
 | [0125-valid-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/vickyliuwt/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0161-one-edit-distance](https://github.com/vickyliuwt/LeetCode/tree/main/0161-one-edit-distance/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vickyliuwt/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/vickyliuwt/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/vickyliuwt/LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -578,6 +579,7 @@
 | [0140-word-break-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/vickyliuwt/LeetCode/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
+| [0161-one-edit-distance](https://github.com/vickyliuwt/LeetCode/tree/main/0161-one-edit-distance/) | Medium |
 | [0205-isomorphic-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vickyliuwt/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
