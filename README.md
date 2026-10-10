@@ -67,6 +67,7 @@
 | [0157-read-n-characters-given-read4](https://github.com/vickyliuwt/LeetCode/tree/main/0157-read-n-characters-given-read4/) | Easy |
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/vickyliuwt/LeetCode/tree/main/0158-read-n-characters-given-read4-ii-call-multiple-times/) | Hard |
 | [0162-find-peak-element](https://github.com/vickyliuwt/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0163-missing-ranges](https://github.com/vickyliuwt/LeetCode/tree/main/0163-missing-ranges/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vickyliuwt/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/vickyliuwt/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vickyliuwt/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
