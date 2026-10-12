@@ -600,6 +600,7 @@
 | [0161-one-edit-distance](https://github.com/vickyliuwt/LeetCode/tree/main/0161-one-edit-distance/) | Medium |
 | [0165-compare-version-numbers](https://github.com/vickyliuwt/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/vickyliuwt/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/vickyliuwt/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vickyliuwt/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -675,6 +676,7 @@
 | [0149-max-points-on-a-line](https://github.com/vickyliuwt/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vickyliuwt/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/vickyliuwt/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/vickyliuwt/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/vickyliuwt/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/vickyliuwt/LeetCode/tree/main/0202-happy-number/) | Easy |
