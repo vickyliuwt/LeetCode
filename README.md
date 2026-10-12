@@ -71,6 +71,7 @@
 | [0164-maximum-gap](https://github.com/vickyliuwt/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vickyliuwt/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/vickyliuwt/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0170-two-sum-iii-data-structure-design](https://github.com/vickyliuwt/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vickyliuwt/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/vickyliuwt/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/vickyliuwt/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -175,6 +176,7 @@
 | [0161-one-edit-distance](https://github.com/vickyliuwt/LeetCode/tree/main/0161-one-edit-distance/) | Medium |
 | [0165-compare-version-numbers](https://github.com/vickyliuwt/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vickyliuwt/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0170-two-sum-iii-data-structure-design](https://github.com/vickyliuwt/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0189-rotate-array](https://github.com/vickyliuwt/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/vickyliuwt/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -311,6 +313,7 @@
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/vickyliuwt/LeetCode/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/vickyliuwt/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0169-majority-element](https://github.com/vickyliuwt/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0170-two-sum-iii-data-structure-design](https://github.com/vickyliuwt/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0202-happy-number](https://github.com/vickyliuwt/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -735,6 +738,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/vickyliuwt/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0170-two-sum-iii-data-structure-design](https://github.com/vickyliuwt/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vickyliuwt/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -1145,6 +1149,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/vickyliuwt/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/vickyliuwt/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Ordered Set
