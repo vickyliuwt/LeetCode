@@ -309,6 +309,7 @@
 | [0140-word-break-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/vickyliuwt/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/vickyliuwt/LeetCode/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/vickyliuwt/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0169-majority-element](https://github.com/vickyliuwt/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/vickyliuwt/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -598,6 +599,7 @@
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/vickyliuwt/LeetCode/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
 | [0161-one-edit-distance](https://github.com/vickyliuwt/LeetCode/tree/main/0161-one-edit-distance/) | Medium |
 | [0165-compare-version-numbers](https://github.com/vickyliuwt/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/vickyliuwt/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0205-isomorphic-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vickyliuwt/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -672,6 +674,7 @@
 | [0096-unique-binary-search-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/vickyliuwt/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vickyliuwt/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/vickyliuwt/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/vickyliuwt/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/vickyliuwt/LeetCode/tree/main/0202-happy-number/) | Easy |
