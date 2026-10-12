@@ -135,6 +135,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vickyliuwt/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/vickyliuwt/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/vickyliuwt/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/vickyliuwt/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/vickyliuwt/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/vickyliuwt/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -388,6 +389,7 @@
 | [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/vickyliuwt/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/vickyliuwt/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/vickyliuwt/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vickyliuwt/LeetCode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vickyliuwt/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -894,6 +896,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vickyliuwt/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/vickyliuwt/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vickyliuwt/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/vickyliuwt/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1927-sum-game](https://github.com/vickyliuwt/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vickyliuwt/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/vickyliuwt/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
