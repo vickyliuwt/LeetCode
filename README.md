@@ -1069,6 +1069,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/vickyliuwt/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vickyliuwt/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/vickyliuwt/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## String Matching
