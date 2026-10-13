@@ -72,6 +72,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vickyliuwt/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/vickyliuwt/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0170-two-sum-iii-data-structure-design](https://github.com/vickyliuwt/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
+| [0174-dungeon-game](https://github.com/vickyliuwt/LeetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vickyliuwt/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/vickyliuwt/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/vickyliuwt/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -228,6 +229,7 @@
 | [0139-word-break](https://github.com/vickyliuwt/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0174-dungeon-game](https://github.com/vickyliuwt/LeetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vickyliuwt/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/vickyliuwt/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/vickyliuwt/LeetCode/tree/main/0221-maximal-square/) | Medium |
@@ -538,6 +540,7 @@
 | [0074-search-a-2d-matrix](https://github.com/vickyliuwt/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/vickyliuwt/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/vickyliuwt/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0174-dungeon-game](https://github.com/vickyliuwt/LeetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0221-maximal-square](https://github.com/vickyliuwt/LeetCode/tree/main/0221-maximal-square/) | Medium |
