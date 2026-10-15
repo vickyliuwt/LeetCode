@@ -1085,6 +1085,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/vickyliuwt/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/vickyliuwt/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/vickyliuwt/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/vickyliuwt/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vickyliuwt/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/vickyliuwt/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## String Matching
