@@ -1250,4 +1250,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vickyliuwt/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/vickyliuwt/LeetCode/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
