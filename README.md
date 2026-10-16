@@ -322,6 +322,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/vickyliuwt/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0169-majority-element](https://github.com/vickyliuwt/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0170-two-sum-iii-data-structure-design](https://github.com/vickyliuwt/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/vickyliuwt/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0202-happy-number](https://github.com/vickyliuwt/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -620,6 +621,7 @@
 | [0168-excel-sheet-column-title](https://github.com/vickyliuwt/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0179-largest-number](https://github.com/vickyliuwt/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0186-reverse-words-in-a-string-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0186-reverse-words-in-a-string-ii/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/vickyliuwt/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vickyliuwt/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -662,6 +664,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vickyliuwt/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vickyliuwt/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/vickyliuwt/LeetCode/tree/main/0159-longest-substring-with-at-most-two-distinct-characters/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/vickyliuwt/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -1006,6 +1009,7 @@
 | [0090-subsets-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/vickyliuwt/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0137-single-number-ii/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/vickyliuwt/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/vickyliuwt/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
@@ -1101,6 +1105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/vickyliuwt/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1109,6 +1114,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/vickyliuwt/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1233,4 +1239,12 @@
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vickyliuwt/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vickyliuwt/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/vickyliuwt/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/vickyliuwt/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
