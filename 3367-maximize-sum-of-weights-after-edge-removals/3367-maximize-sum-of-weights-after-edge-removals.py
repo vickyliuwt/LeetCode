@@ -1,5 +1,4 @@
 class Solution:
-    # O(nlogk)
     def maximizeSumOfWeights(self, edges: List[List[int]], k: int) -> int:
         n = len(edges) + 1
         G = [[] for i in range(n)]
