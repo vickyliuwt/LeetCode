@@ -287,6 +287,7 @@
 | [0735-asteroid-collision](https://github.com/vickyliuwt/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vickyliuwt/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/vickyliuwt/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vickyliuwt/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -346,6 +347,7 @@
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0752-open-the-lock](https://github.com/vickyliuwt/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/vickyliuwt/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/vickyliuwt/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vickyliuwt/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -777,6 +779,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vickyliuwt/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/vickyliuwt/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/vickyliuwt/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/vickyliuwt/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -1208,6 +1211,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0850-rectangle-area-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0850-rectangle-area-ii/) | Hard |
+| [0895-maximum-frequency-stack](https://github.com/vickyliuwt/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/vickyliuwt/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Interactive
