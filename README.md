@@ -127,6 +127,7 @@
 | [0904-fruit-into-baskets](https://github.com/vickyliuwt/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/vickyliuwt/LeetCode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/vickyliuwt/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1089-duplicate-zeros](https://github.com/vickyliuwt/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
@@ -406,6 +407,7 @@
 | [0502-ipo](https://github.com/vickyliuwt/LeetCode/tree/main/0502-ipo/) | Hard |
 | [0561-array-partition](https://github.com/vickyliuwt/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/vickyliuwt/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/vickyliuwt/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -448,6 +450,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/vickyliuwt/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/vickyliuwt/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/vickyliuwt/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -931,6 +934,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vickyliuwt/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vickyliuwt/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/vickyliuwt/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/vickyliuwt/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vickyliuwt/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/vickyliuwt/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
