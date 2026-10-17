@@ -122,6 +122,7 @@
 | [0739-daily-temperatures](https://github.com/vickyliuwt/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/vickyliuwt/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0752-open-the-lock](https://github.com/vickyliuwt/LeetCode/tree/main/0752-open-the-lock/) | Medium |
+| [0850-rectangle-area-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0850-rectangle-area-ii/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/vickyliuwt/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vickyliuwt/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/vickyliuwt/LeetCode/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -1206,6 +1207,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0850-rectangle-area-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0850-rectangle-area-ii/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/vickyliuwt/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Interactive
@@ -1251,6 +1253,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0850-rectangle-area-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0850-rectangle-area-ii/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vickyliuwt/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vickyliuwt/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Rolling Hash
@@ -1268,4 +1271,8 @@
 | [0193-valid-phone-numbers](https://github.com/vickyliuwt/LeetCode/tree/main/0193-valid-phone-numbers/) | Easy |
 | [0194-transpose-file](https://github.com/vickyliuwt/LeetCode/tree/main/0194-transpose-file/) | Medium |
 | [0195-tenth-line](https://github.com/vickyliuwt/LeetCode/tree/main/0195-tenth-line/) | Easy |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0850-rectangle-area-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0850-rectangle-area-ii/) | Hard |
 <!---LeetCode Topics End-->
