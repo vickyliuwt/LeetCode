@@ -1264,6 +1264,7 @@
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0192-word-frequency](https://github.com/vickyliuwt/LeetCode/tree/main/0192-word-frequency/) | Medium |
 | [0194-transpose-file](https://github.com/vickyliuwt/LeetCode/tree/main/0194-transpose-file/) | Medium |
 | [0195-tenth-line](https://github.com/vickyliuwt/LeetCode/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
