@@ -603,11 +603,13 @@
 | [0547-number-of-provinces](https://github.com/vickyliuwt/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vickyliuwt/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vickyliuwt/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/vickyliuwt/LeetCode/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/vickyliuwt/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/vickyliuwt/LeetCode/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1306,4 +1308,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/vickyliuwt/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/vickyliuwt/LeetCode/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/vickyliuwt/LeetCode/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 <!---LeetCode Topics End-->
