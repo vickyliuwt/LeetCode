@@ -135,6 +135,7 @@
 | [1034-coloring-a-border](https://github.com/vickyliuwt/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
 | [1086-high-five](https://github.com/vickyliuwt/LeetCode/tree/main/1086-high-five/) | Easy |
 | [1089-duplicate-zeros](https://github.com/vickyliuwt/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/vickyliuwt/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/vickyliuwt/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
@@ -422,6 +423,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vickyliuwt/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vickyliuwt/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1086-high-five](https://github.com/vickyliuwt/LeetCode/tree/main/1086-high-five/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/vickyliuwt/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/vickyliuwt/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
