@@ -514,6 +514,7 @@
 | [0841-keys-and-rooms](https://github.com/vickyliuwt/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vickyliuwt/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0979-distribute-coins-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1034-coloring-a-border](https://github.com/vickyliuwt/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -877,6 +878,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0979-distribute-coins-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -920,6 +922,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0979-distribute-coins-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -1004,6 +1007,7 @@
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0979-distribute-coins-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
