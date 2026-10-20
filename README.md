@@ -759,6 +759,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/vickyliuwt/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/vickyliuwt/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
 | [1927-sum-game](https://github.com/vickyliuwt/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vickyliuwt/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/vickyliuwt/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -801,6 +802,7 @@
 | [0410-split-array-largest-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/vickyliuwt/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
 | [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vickyliuwt/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vickyliuwt/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -1228,11 +1230,13 @@
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/vickyliuwt/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/vickyliuwt/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1342,4 +1346,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/vickyliuwt/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
+## Least Common Multiple
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
+## Inclusion-Exclusion Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
 <!---LeetCode Topics End-->
