@@ -78,6 +78,7 @@
 | [0189-rotate-array](https://github.com/vickyliuwt/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/vickyliuwt/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/vickyliuwt/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0204-count-primes](https://github.com/vickyliuwt/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/vickyliuwt/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -751,6 +752,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/vickyliuwt/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/vickyliuwt/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/vickyliuwt/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/vickyliuwt/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -1350,6 +1352,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/vickyliuwt/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/vickyliuwt/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -1358,6 +1361,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/vickyliuwt/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
 ## Least Common Multiple
 | Problem Name | Difficulty |
@@ -1367,4 +1371,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/vickyliuwt/LeetCode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/vickyliuwt/LeetCode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/vickyliuwt/LeetCode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
