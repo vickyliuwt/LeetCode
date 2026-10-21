@@ -842,6 +842,7 @@
 | [0050-powx-n](https://github.com/vickyliuwt/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/vickyliuwt/LeetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/vickyliuwt/LeetCode/tree/main/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/vickyliuwt/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0224-basic-calculator](https://github.com/vickyliuwt/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0394-decode-string](https://github.com/vickyliuwt/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/vickyliuwt/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
@@ -998,6 +999,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vickyliuwt/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0143-reorder-list](https://github.com/vickyliuwt/LeetCode/tree/main/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/vickyliuwt/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vickyliuwt/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
