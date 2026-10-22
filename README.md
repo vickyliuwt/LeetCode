@@ -676,6 +676,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vickyliuwt/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
+| [0214-shortest-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0224-basic-calculator](https://github.com/vickyliuwt/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/vickyliuwt/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
@@ -1177,15 +1178,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0214-shortest-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/vickyliuwt/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0214-shortest-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0214-shortest-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1325,10 +1329,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vickyliuwt/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0214-shortest-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vickyliuwt/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0214-shortest-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1386,4 +1392,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/vickyliuwt/LeetCode/tree/main/0204-count-primes/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
