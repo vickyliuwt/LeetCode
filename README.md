@@ -770,6 +770,7 @@
 | [0189-rotate-array](https://github.com/vickyliuwt/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/vickyliuwt/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/vickyliuwt/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [0223-rectangle-area](https://github.com/vickyliuwt/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0224-basic-calculator](https://github.com/vickyliuwt/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -1254,6 +1255,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/vickyliuwt/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0223-rectangle-area](https://github.com/vickyliuwt/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vickyliuwt/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
