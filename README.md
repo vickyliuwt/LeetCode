@@ -1211,6 +1211,7 @@
 | [0185-department-top-three-salaries](https://github.com/vickyliuwt/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/vickyliuwt/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/vickyliuwt/LeetCode/tree/main/0197-rising-temperature/) | Easy |
+| [0620-not-boring-movies](https://github.com/vickyliuwt/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/vickyliuwt/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vickyliuwt/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/vickyliuwt/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
