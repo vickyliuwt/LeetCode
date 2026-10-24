@@ -726,6 +726,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vickyliuwt/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1927-sum-game](https://github.com/vickyliuwt/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/vickyliuwt/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/vickyliuwt/LeetCode/tree/main/3078-match-alphanumerical-pattern-in-matrix-i/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
@@ -786,6 +787,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/vickyliuwt/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
 | [1927-sum-game](https://github.com/vickyliuwt/LeetCode/tree/main/1927-sum-game/) | Medium |
+| [2409-count-days-spent-together](https://github.com/vickyliuwt/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vickyliuwt/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/vickyliuwt/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Simulation
