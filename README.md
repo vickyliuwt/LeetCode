@@ -127,6 +127,7 @@
 | [0739-daily-temperatures](https://github.com/vickyliuwt/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/vickyliuwt/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0752-open-the-lock](https://github.com/vickyliuwt/LeetCode/tree/main/0752-open-the-lock/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/vickyliuwt/LeetCode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0850-rectangle-area-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0850-rectangle-area-ii/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/vickyliuwt/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vickyliuwt/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -313,6 +314,7 @@
 | [0682-baseball-game](https://github.com/vickyliuwt/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/vickyliuwt/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vickyliuwt/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/vickyliuwt/LeetCode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0856-score-of-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/vickyliuwt/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
@@ -330,6 +332,7 @@
 | [0085-maximal-rectangle](https://github.com/vickyliuwt/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0321-create-maximum-number](https://github.com/vickyliuwt/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0739-daily-temperatures](https://github.com/vickyliuwt/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/vickyliuwt/LeetCode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -441,6 +444,7 @@
 | [0502-ipo](https://github.com/vickyliuwt/LeetCode/tree/main/0502-ipo/) | Hard |
 | [0561-array-partition](https://github.com/vickyliuwt/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/vickyliuwt/LeetCode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vickyliuwt/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vickyliuwt/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1086-high-five](https://github.com/vickyliuwt/LeetCode/tree/main/1086-high-five/) | Easy |
@@ -1019,6 +1023,7 @@
 | [0678-valid-parenthesis-string](https://github.com/vickyliuwt/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vickyliuwt/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0763-partition-labels](https://github.com/vickyliuwt/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/vickyliuwt/LeetCode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vickyliuwt/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vickyliuwt/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/vickyliuwt/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
