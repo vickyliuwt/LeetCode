@@ -180,6 +180,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vickyliuwt/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vickyliuwt/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vickyliuwt/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vickyliuwt/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/vickyliuwt/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vickyliuwt/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Two Pointers
@@ -290,6 +291,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vickyliuwt/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vickyliuwt/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/vickyliuwt/LeetCode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vickyliuwt/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -647,6 +649,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/vickyliuwt/LeetCode/tree/main/3078-match-alphanumerical-pattern-in-matrix-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vickyliuwt/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vickyliuwt/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1155,6 +1158,7 @@
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vickyliuwt/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/vickyliuwt/LeetCode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vickyliuwt/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vickyliuwt/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
