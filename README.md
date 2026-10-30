@@ -497,6 +497,7 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/vickyliuwt/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/vickyliuwt/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vickyliuwt/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -671,6 +672,7 @@
 | [0841-keys-and-rooms](https://github.com/vickyliuwt/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vickyliuwt/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/vickyliuwt/LeetCode/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vickyliuwt/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -771,6 +773,7 @@
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/vickyliuwt/LeetCode/tree/main/3078-match-alphanumerical-pattern-in-matrix-i/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vickyliuwt/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vickyliuwt/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1295,6 +1298,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/vickyliuwt/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vickyliuwt/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
