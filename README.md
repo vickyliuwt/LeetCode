@@ -1272,6 +1272,7 @@
 | [0185-department-top-three-salaries](https://github.com/vickyliuwt/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/vickyliuwt/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/vickyliuwt/LeetCode/tree/main/0197-rising-temperature/) | Easy |
+| [0571-find-median-given-frequency-of-numbers](https://github.com/vickyliuwt/LeetCode/tree/main/0571-find-median-given-frequency-of-numbers/) | Hard |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/vickyliuwt/LeetCode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0603-consecutive-available-seats](https://github.com/vickyliuwt/LeetCode/tree/main/0603-consecutive-available-seats/) | Easy |
 | [0620-not-boring-movies](https://github.com/vickyliuwt/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
