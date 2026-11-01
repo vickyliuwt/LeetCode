@@ -187,6 +187,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vickyliuwt/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vickyliuwt/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/vickyliuwt/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3923-minimum-generations-to-target-point](https://github.com/vickyliuwt/LeetCode/tree/main/3923-minimum-generations-to-target-point/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vickyliuwt/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -413,6 +414,7 @@
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/vickyliuwt/LeetCode/tree/main/3078-match-alphanumerical-pattern-in-matrix-i/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vickyliuwt/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3923-minimum-generations-to-target-point](https://github.com/vickyliuwt/LeetCode/tree/main/3923-minimum-generations-to-target-point/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -864,6 +866,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vickyliuwt/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3923-minimum-generations-to-target-point](https://github.com/vickyliuwt/LeetCode/tree/main/3923-minimum-generations-to-target-point/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
