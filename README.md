@@ -835,6 +835,7 @@
 | [0223-rectangle-area](https://github.com/vickyliuwt/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0224-basic-calculator](https://github.com/vickyliuwt/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0231-power-of-two](https://github.com/vickyliuwt/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/vickyliuwt/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
@@ -940,6 +941,7 @@
 | [0143-reorder-list](https://github.com/vickyliuwt/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/vickyliuwt/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0224-basic-calculator](https://github.com/vickyliuwt/LeetCode/tree/main/0224-basic-calculator/) | Hard |
+| [0231-power-of-two](https://github.com/vickyliuwt/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/vickyliuwt/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0394-decode-string](https://github.com/vickyliuwt/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -1187,6 +1189,7 @@
 | [0190-reverse-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/vickyliuwt/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0231-power-of-two](https://github.com/vickyliuwt/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/vickyliuwt/LeetCode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
