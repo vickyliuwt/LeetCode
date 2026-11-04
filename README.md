@@ -146,6 +146,7 @@
 | [1034-coloring-a-border](https://github.com/vickyliuwt/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
 | [1086-high-five](https://github.com/vickyliuwt/LeetCode/tree/main/1086-high-five/) | Easy |
 | [1089-duplicate-zeros](https://github.com/vickyliuwt/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
+| [1169-invalid-transactions](https://github.com/vickyliuwt/LeetCode/tree/main/1169-invalid-transactions/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/vickyliuwt/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/vickyliuwt/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -408,6 +409,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vickyliuwt/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1086-high-five](https://github.com/vickyliuwt/LeetCode/tree/main/1086-high-five/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/vickyliuwt/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1169-invalid-transactions](https://github.com/vickyliuwt/LeetCode/tree/main/1169-invalid-transactions/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/vickyliuwt/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/vickyliuwt/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -480,6 +482,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/vickyliuwt/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1086-high-five](https://github.com/vickyliuwt/LeetCode/tree/main/1086-high-five/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/vickyliuwt/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1169-invalid-transactions](https://github.com/vickyliuwt/LeetCode/tree/main/1169-invalid-transactions/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/vickyliuwt/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
@@ -781,6 +784,7 @@
 | [1096-brace-expansion-ii](https://github.com/vickyliuwt/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vickyliuwt/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1169-invalid-transactions](https://github.com/vickyliuwt/LeetCode/tree/main/1169-invalid-transactions/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
