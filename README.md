@@ -182,6 +182,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vickyliuwt/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/vickyliuwt/LeetCode/tree/main/3078-match-alphanumerical-pattern-in-matrix-i/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vickyliuwt/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vickyliuwt/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -303,6 +304,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vickyliuwt/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vickyliuwt/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/vickyliuwt/LeetCode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vickyliuwt/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -421,6 +423,7 @@
 | [2935-maximum-strong-pair-xor-ii](https://github.com/vickyliuwt/LeetCode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vickyliuwt/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/vickyliuwt/LeetCode/tree/main/3078-match-alphanumerical-pattern-in-matrix-i/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vickyliuwt/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3923-minimum-generations-to-target-point](https://github.com/vickyliuwt/LeetCode/tree/main/3923-minimum-generations-to-target-point/) | Medium |
@@ -511,6 +514,7 @@
 | [2336-smallest-number-in-infinite-set](https://github.com/vickyliuwt/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vickyliuwt/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/vickyliuwt/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vickyliuwt/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bucket Sort
@@ -812,6 +816,7 @@
 | [2935-maximum-strong-pair-xor-ii](https://github.com/vickyliuwt/LeetCode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vickyliuwt/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -861,6 +866,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vickyliuwt/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1927-sum-game](https://github.com/vickyliuwt/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/vickyliuwt/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vickyliuwt/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vickyliuwt/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vickyliuwt/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
