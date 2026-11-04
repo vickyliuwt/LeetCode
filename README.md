@@ -569,6 +569,7 @@
 | [0226-invert-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0250-count-univalue-subtrees](https://github.com/vickyliuwt/LeetCode/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/vickyliuwt/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vickyliuwt/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -995,6 +996,7 @@
 | [0226-invert-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0250-count-univalue-subtrees](https://github.com/vickyliuwt/LeetCode/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0427-construct-quad-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -1043,6 +1045,7 @@
 | [0226-invert-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0250-count-univalue-subtrees](https://github.com/vickyliuwt/LeetCode/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -1141,6 +1144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0250-count-univalue-subtrees](https://github.com/vickyliuwt/LeetCode/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
