@@ -159,6 +159,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vickyliuwt/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/vickyliuwt/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vickyliuwt/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vickyliuwt/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/vickyliuwt/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/vickyliuwt/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -417,6 +418,7 @@
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/vickyliuwt/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/vickyliuwt/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vickyliuwt/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vickyliuwt/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -826,6 +828,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vickyliuwt/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vickyliuwt/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vickyliuwt/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/vickyliuwt/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/vickyliuwt/LeetCode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vickyliuwt/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -930,6 +933,7 @@
 | [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
 | [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vickyliuwt/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vickyliuwt/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vickyliuwt/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vickyliuwt/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vickyliuwt/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -1252,6 +1256,7 @@
 | [0724-find-pivot-index](https://github.com/vickyliuwt/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1000-minimum-cost-to-merge-stones](https://github.com/vickyliuwt/LeetCode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vickyliuwt/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/vickyliuwt/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Bracket Sequences
