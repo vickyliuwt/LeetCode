@@ -189,6 +189,7 @@
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vickyliuwt/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vickyliuwt/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vickyliuwt/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -311,6 +312,7 @@
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vickyliuwt/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/vickyliuwt/LeetCode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vickyliuwt/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -884,6 +886,7 @@
 | [1927-sum-game](https://github.com/vickyliuwt/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/vickyliuwt/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vickyliuwt/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vickyliuwt/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vickyliuwt/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
