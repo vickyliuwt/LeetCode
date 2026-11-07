@@ -811,6 +811,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/vickyliuwt/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/vickyliuwt/LeetCode/tree/main/3078-match-alphanumerical-pattern-in-matrix-i/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vickyliuwt/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vickyliuwt/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -909,6 +910,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vickyliuwt/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3923-minimum-generations-to-target-point](https://github.com/vickyliuwt/LeetCode/tree/main/3923-minimum-generations-to-target-point/) | Medium |
 ## Binary Search
