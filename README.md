@@ -152,6 +152,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/vickyliuwt/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vickyliuwt/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/vickyliuwt/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/vickyliuwt/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vickyliuwt/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vickyliuwt/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -548,6 +549,7 @@
 | [0383-ransom-note](https://github.com/vickyliuwt/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0621-task-scheduler](https://github.com/vickyliuwt/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vickyliuwt/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/vickyliuwt/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/vickyliuwt/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -602,6 +604,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/vickyliuwt/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/vickyliuwt/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vickyliuwt/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
@@ -648,6 +651,7 @@
 | [1197-minimum-knight-moves](https://github.com/vickyliuwt/LeetCode/tree/main/1197-minimum-knight-moves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/vickyliuwt/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/vickyliuwt/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/vickyliuwt/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vickyliuwt/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -662,6 +666,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vickyliuwt/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/vickyliuwt/LeetCode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/vickyliuwt/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/vickyliuwt/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vickyliuwt/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -690,6 +695,7 @@
 | [0994-rotting-oranges](https://github.com/vickyliuwt/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1034-coloring-a-border](https://github.com/vickyliuwt/LeetCode/tree/main/1034-coloring-a-border/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/vickyliuwt/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/vickyliuwt/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vickyliuwt/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/vickyliuwt/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vickyliuwt/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
