@@ -98,6 +98,7 @@
 | [0251-flatten-2d-vector](https://github.com/vickyliuwt/LeetCode/tree/main/0251-flatten-2d-vector/) | Medium |
 | [0252-meeting-rooms](https://github.com/vickyliuwt/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0274-h-index](https://github.com/vickyliuwt/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -340,6 +341,7 @@
 | [0225-implement-stack-using-queues](https://github.com/vickyliuwt/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/vickyliuwt/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0321-create-maximum-number](https://github.com/vickyliuwt/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0364-nested-list-weight-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 | [0394-decode-string](https://github.com/vickyliuwt/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -366,6 +368,7 @@
 | [0042-trapping-rain-water](https://github.com/vickyliu03/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/vickyliu03/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/vickyliuwt/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0321-create-maximum-number](https://github.com/vickyliuwt/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0739-daily-temperatures](https://github.com/vickyliuwt/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/vickyliuwt/LeetCode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -998,6 +1001,7 @@
 | [0231-power-of-two](https://github.com/vickyliuwt/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/vickyliuwt/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0394-decode-string](https://github.com/vickyliuwt/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/vickyliuwt/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/vickyliuwt/LeetCode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
@@ -1035,6 +1039,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0250-count-univalue-subtrees](https://github.com/vickyliuwt/LeetCode/tree/main/0250-count-univalue-subtrees/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0427-construct-quad-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -1084,6 +1089,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0250-count-univalue-subtrees](https://github.com/vickyliuwt/LeetCode/tree/main/0250-count-univalue-subtrees/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -1106,6 +1112,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
