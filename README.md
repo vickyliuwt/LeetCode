@@ -96,6 +96,7 @@
 | [0243-shortest-word-distance](https://github.com/vickyliuwt/LeetCode/tree/main/0243-shortest-word-distance/) | Easy |
 | [0245-shortest-word-distance-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0245-shortest-word-distance-iii/) | Medium |
 | [0251-flatten-2d-vector](https://github.com/vickyliuwt/LeetCode/tree/main/0251-flatten-2d-vector/) | Medium |
+| [0252-meeting-rooms](https://github.com/vickyliuwt/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
 | [0274-h-index](https://github.com/vickyliuwt/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -481,6 +482,7 @@
 | [0220-contains-duplicate-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0229-majority-element-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/vickyliuwt/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0252-meeting-rooms](https://github.com/vickyliuwt/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
 | [0274-h-index](https://github.com/vickyliuwt/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vickyliuwt/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -1223,6 +1225,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/vickyliuwt/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/vickyliuwt/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0252-meeting-rooms](https://github.com/vickyliuwt/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
