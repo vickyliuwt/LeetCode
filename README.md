@@ -1410,6 +1410,7 @@
 | [0140-word-break-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0254-factor-combinations](https://github.com/vickyliuwt/LeetCode/tree/main/0254-factor-combinations/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/vickyliuwt/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Newton's Method
@@ -1588,4 +1589,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/vickyliuwt/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0254-factor-combinations](https://github.com/vickyliuwt/LeetCode/tree/main/0254-factor-combinations/) | Medium |
 <!---LeetCode Topics End-->
