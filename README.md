@@ -893,6 +893,7 @@
 | [0231-power-of-two](https://github.com/vickyliuwt/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/vickyliuwt/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0258-add-digits](https://github.com/vickyliuwt/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0441-arranging-coins](https://github.com/vickyliuwt/LeetCode/tree/main/0441-arranging-coins/) | Easy |
@@ -925,6 +926,7 @@
 | [0068-text-justification](https://github.com/vickyliuwt/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0157-read-n-characters-given-read4](https://github.com/vickyliuwt/LeetCode/tree/main/0157-read-n-characters-given-read4/) | Easy |
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/vickyliuwt/LeetCode/tree/main/0158-read-n-characters-given-read4-ii-call-multiple-times/) | Hard |
+| [0258-add-digits](https://github.com/vickyliuwt/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0289-game-of-life](https://github.com/vickyliuwt/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/vickyliuwt/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0682-baseball-game](https://github.com/vickyliuwt/LeetCode/tree/main/0682-baseball-game/) | Easy |
@@ -1582,6 +1584,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/vickyliuwt/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/vickyliuwt/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
 ## Least Common Multiple
 | Problem Name | Difficulty |
