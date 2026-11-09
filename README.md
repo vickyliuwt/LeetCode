@@ -602,6 +602,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0250-count-univalue-subtrees](https://github.com/vickyliuwt/LeetCode/tree/main/0250-count-univalue-subtrees/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vickyliuwt/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0364-nested-list-weight-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/vickyliuwt/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vickyliuwt/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -793,6 +794,7 @@
 | [0243-shortest-word-distance](https://github.com/vickyliuwt/LeetCode/tree/main/0243-shortest-word-distance/) | Easy |
 | [0245-shortest-word-distance-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0245-shortest-word-distance-iii/) | Medium |
 | [0246-strobogrammatic-number](https://github.com/vickyliuwt/LeetCode/tree/main/0246-strobogrammatic-number/) | Easy |
+| [0257-binary-tree-paths](https://github.com/vickyliuwt/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -1045,6 +1047,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0250-count-univalue-subtrees](https://github.com/vickyliuwt/LeetCode/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vickyliuwt/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0427-construct-quad-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -1095,6 +1098,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0250-count-univalue-subtrees](https://github.com/vickyliuwt/LeetCode/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vickyliuwt/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -1423,6 +1427,7 @@
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0254-factor-combinations](https://github.com/vickyliuwt/LeetCode/tree/main/0254-factor-combinations/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vickyliuwt/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/vickyliuwt/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Newton's Method
