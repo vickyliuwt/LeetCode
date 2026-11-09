@@ -1370,6 +1370,7 @@
 | [0620-not-boring-movies](https://github.com/vickyliuwt/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/vickyliuwt/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vickyliuwt/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1607-sellers-with-no-sales](https://github.com/vickyliuwt/LeetCode/tree/main/1607-sellers-with-no-sales/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/vickyliuwt/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
