@@ -99,6 +99,7 @@
 | [0252-meeting-rooms](https://github.com/vickyliuwt/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
+| [0256-paint-house](https://github.com/vickyliuwt/LeetCode/tree/main/0256-paint-house/) | Medium |
 | [0274-h-index](https://github.com/vickyliuwt/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -294,6 +295,7 @@
 | [0221-maximal-square](https://github.com/vickyliuwt/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0233-number-of-digit-one](https://github.com/vickyliuwt/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0256-paint-house](https://github.com/vickyliuwt/LeetCode/tree/main/0256-paint-house/) | Medium |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
