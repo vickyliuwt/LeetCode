@@ -901,6 +901,7 @@
 | [0233-number-of-digit-one](https://github.com/vickyliuwt/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0258-add-digits](https://github.com/vickyliuwt/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/vickyliuwt/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0441-arranging-coins](https://github.com/vickyliuwt/LeetCode/tree/main/0441-arranging-coins/) | Easy |
