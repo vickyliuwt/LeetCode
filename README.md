@@ -100,6 +100,7 @@
 | [0253-meeting-rooms-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0256-paint-house](https://github.com/vickyliuwt/LeetCode/tree/main/0256-paint-house/) | Medium |
+| [0260-single-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0274-h-index](https://github.com/vickyliuwt/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -1269,6 +1270,7 @@
 | [0191-number-of-1-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/vickyliuwt/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0231-power-of-two](https://github.com/vickyliuwt/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/vickyliuwt/LeetCode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
