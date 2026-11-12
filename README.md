@@ -299,6 +299,7 @@
 | [0233-number-of-digit-one](https://github.com/vickyliuwt/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0256-paint-house](https://github.com/vickyliuwt/LeetCode/tree/main/0256-paint-house/) | Medium |
+| [0264-ugly-number-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
@@ -415,6 +416,7 @@
 | [0229-majority-element-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/vickyliuwt/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0246-strobogrammatic-number](https://github.com/vickyliuwt/LeetCode/tree/main/0246-strobogrammatic-number/) | Easy |
+| [0264-ugly-number-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0311-sparse-matrix-multiplication](https://github.com/vickyliuwt/LeetCode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
@@ -535,6 +537,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vickyliuwt/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0218-the-skyline-problem](https://github.com/vickyliuwt/LeetCode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0253-meeting-rooms-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0264-ugly-number-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vickyliuwt/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0502-ipo](https://github.com/vickyliuwt/LeetCode/tree/main/0502-ipo/) | Hard |
@@ -903,6 +906,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0258-add-digits](https://github.com/vickyliuwt/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/vickyliuwt/LeetCode/tree/main/0263-ugly-number/) | Easy |
+| [0264-ugly-number-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0441-arranging-coins](https://github.com/vickyliuwt/LeetCode/tree/main/0441-arranging-coins/) | Easy |
