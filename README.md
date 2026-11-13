@@ -105,6 +105,7 @@
 | [0265-paint-house-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0265-paint-house-ii/) | Hard |
 | [0268-missing-number](https://github.com/vickyliuwt/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
+| [0271-encode-and-decode-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0274-h-index](https://github.com/vickyliuwt/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -827,6 +828,7 @@
 | [0266-palindrome-permutation](https://github.com/vickyliuwt/LeetCode/tree/main/0266-palindrome-permutation/) | Easy |
 | [0267-palindrome-permutation-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0267-palindrome-permutation-ii/) | Medium |
 | [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
+| [0271-encode-and-decode-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -1021,6 +1023,7 @@
 | [0225-implement-stack-using-queues](https://github.com/vickyliuwt/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/vickyliuwt/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0251-flatten-2d-vector](https://github.com/vickyliuwt/LeetCode/tree/main/0251-flatten-2d-vector/) | Medium |
+| [0271-encode-and-decode-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/vickyliuwt/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
