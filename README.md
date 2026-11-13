@@ -104,6 +104,7 @@
 | [0260-single-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0265-paint-house-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0265-paint-house-ii/) | Hard |
 | [0268-missing-number](https://github.com/vickyliuwt/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0274-h-index](https://github.com/vickyliuwt/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -622,6 +623,7 @@
 | [0250-count-univalue-subtrees](https://github.com/vickyliuwt/LeetCode/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vickyliuwt/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0261-graph-valid-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
+| [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0364-nested-list-weight-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/vickyliuwt/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vickyliuwt/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -667,6 +669,7 @@
 | [0210-course-schedule-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0261-graph-valid-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
+| [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
@@ -747,6 +750,7 @@
 | [0207-course-schedule](https://github.com/vickyliuwt/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0261-graph-valid-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
+| [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0399-evaluate-division](https://github.com/vickyliuwt/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/vickyliuwt/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vickyliuwt/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -758,6 +762,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/vickyliuwt/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/vickyliuwt/LeetCode/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -820,6 +825,7 @@
 | [0257-binary-tree-paths](https://github.com/vickyliuwt/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0266-palindrome-permutation](https://github.com/vickyliuwt/LeetCode/tree/main/0266-palindrome-permutation/) | Easy |
 | [0267-palindrome-permutation-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0267-palindrome-permutation-ii/) | Medium |
+| [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -1658,4 +1664,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0254-factor-combinations](https://github.com/vickyliuwt/LeetCode/tree/main/0254-factor-combinations/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 <!---LeetCode Topics End-->
