@@ -95,6 +95,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0243-shortest-word-distance](https://github.com/vickyliuwt/LeetCode/tree/main/0243-shortest-word-distance/) | Easy |
 | [0245-shortest-word-distance-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0245-shortest-word-distance-iii/) | Medium |
+| [0247-strobogrammatic-number-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0247-strobogrammatic-number-ii/) | Medium |
 | [0251-flatten-2d-vector](https://github.com/vickyliuwt/LeetCode/tree/main/0251-flatten-2d-vector/) | Medium |
 | [0252-meeting-rooms](https://github.com/vickyliuwt/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
@@ -812,6 +813,7 @@
 | [0243-shortest-word-distance](https://github.com/vickyliuwt/LeetCode/tree/main/0243-shortest-word-distance/) | Easy |
 | [0245-shortest-word-distance-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0245-shortest-word-distance-iii/) | Medium |
 | [0246-strobogrammatic-number](https://github.com/vickyliuwt/LeetCode/tree/main/0246-strobogrammatic-number/) | Easy |
+| [0247-strobogrammatic-number-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0247-strobogrammatic-number-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vickyliuwt/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0266-palindrome-permutation](https://github.com/vickyliuwt/LeetCode/tree/main/0266-palindrome-permutation/) | Easy |
 | [0267-palindrome-permutation-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0267-palindrome-permutation-ii/) | Medium |
@@ -1036,6 +1038,7 @@
 | [0231-power-of-two](https://github.com/vickyliuwt/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/vickyliuwt/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0247-strobogrammatic-number-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0247-strobogrammatic-number-ii/) | Medium |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0394-decode-string](https://github.com/vickyliuwt/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/vickyliuwt/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
