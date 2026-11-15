@@ -169,6 +169,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vickyliuwt/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/vickyliuwt/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vickyliuwt/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vickyliuwt/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/vickyliuwt/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vickyliuwt/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vickyliuwt/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -328,6 +329,7 @@
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/vickyliuwt/LeetCode/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vickyliuwt/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vickyliuwt/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/vickyliuwt/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vickyliuwt/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vickyliuwt/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -952,6 +954,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/vickyliuwt/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vickyliuwt/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vickyliuwt/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1927-sum-game](https://github.com/vickyliuwt/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/vickyliuwt/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -1354,6 +1357,7 @@
 | [0724-find-pivot-index](https://github.com/vickyliuwt/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1000-minimum-cost-to-merge-stones](https://github.com/vickyliuwt/LeetCode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vickyliuwt/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vickyliuwt/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/vickyliuwt/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
