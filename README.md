@@ -1008,6 +1008,7 @@
 | [0268-missing-number](https://github.com/vickyliuwt/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0270-closest-binary-search-tree-value](https://github.com/vickyliuwt/LeetCode/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0275-h-index-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0275-h-index-ii/) | Medium |
+| [0278-first-bad-version](https://github.com/vickyliuwt/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/vickyliuwt/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -1565,6 +1566,7 @@
 | [0157-read-n-characters-given-read4](https://github.com/vickyliuwt/LeetCode/tree/main/0157-read-n-characters-given-read4/) | Easy |
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/vickyliuwt/LeetCode/tree/main/0158-read-n-characters-given-read4-ii-call-multiple-times/) | Hard |
 | [0277-find-the-celebrity](https://github.com/vickyliuwt/LeetCode/tree/main/0277-find-the-celebrity/) | Medium |
+| [0278-first-bad-version](https://github.com/vickyliuwt/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/vickyliuwt/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Linear Algebra
 | Problem Name | Difficulty |
