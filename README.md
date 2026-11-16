@@ -107,6 +107,7 @@
 | [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0271-encode-and-decode-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0274-h-index](https://github.com/vickyliuwt/LeetCode/tree/main/0274-h-index/) | Medium |
+| [0275-h-index-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0275-h-index-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0289-game-of-life](https://github.com/vickyliuwt/LeetCode/tree/main/0289-game-of-life/) | Medium |
@@ -1003,6 +1004,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/vickyliuwt/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0270-closest-binary-search-tree-value](https://github.com/vickyliuwt/LeetCode/tree/main/0270-closest-binary-search-tree-value/) | Easy |
+| [0275-h-index-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/vickyliuwt/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
