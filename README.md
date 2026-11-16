@@ -310,6 +310,7 @@
 | [0256-paint-house](https://github.com/vickyliuwt/LeetCode/tree/main/0256-paint-house/) | Medium |
 | [0264-ugly-number-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0265-paint-house-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0265-paint-house-ii/) | Hard |
+| [0276-paint-fence](https://github.com/vickyliuwt/LeetCode/tree/main/0276-paint-fence/) | Medium |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
