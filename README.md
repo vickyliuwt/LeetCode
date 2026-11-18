@@ -111,6 +111,7 @@
 | [0280-wiggle-sort](https://github.com/vickyliuwt/LeetCode/tree/main/0280-wiggle-sort/) | Medium |
 | [0281-zigzag-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0284-peeking-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0284-peeking-iterator/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0289-game-of-life](https://github.com/vickyliuwt/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -1047,6 +1048,7 @@
 | [0251-flatten-2d-vector](https://github.com/vickyliuwt/LeetCode/tree/main/0251-flatten-2d-vector/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0281-zigzag-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
+| [0284-peeking-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0284-peeking-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/vickyliuwt/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
@@ -1479,6 +1481,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0251-flatten-2d-vector](https://github.com/vickyliuwt/LeetCode/tree/main/0251-flatten-2d-vector/) | Medium |
 | [0281-zigzag-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
+| [0284-peeking-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0284-peeking-iterator/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
