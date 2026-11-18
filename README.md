@@ -842,6 +842,7 @@
 | [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0271-encode-and-decode-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0273-integer-to-english-words](https://github.com/vickyliuwt/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0282-expression-add-operators](https://github.com/vickyliuwt/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -951,6 +952,7 @@
 | [0268-missing-number](https://github.com/vickyliuwt/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0273-integer-to-english-words](https://github.com/vickyliuwt/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0282-expression-add-operators](https://github.com/vickyliuwt/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0441-arranging-coins](https://github.com/vickyliuwt/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vickyliuwt/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -1511,6 +1513,7 @@
 | [0254-factor-combinations](https://github.com/vickyliuwt/LeetCode/tree/main/0254-factor-combinations/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vickyliuwt/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0267-palindrome-permutation-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0267-palindrome-permutation-ii/) | Medium |
+| [0282-expression-add-operators](https://github.com/vickyliuwt/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/vickyliuwt/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Newton's Method
