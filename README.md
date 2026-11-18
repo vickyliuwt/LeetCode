@@ -109,6 +109,7 @@
 | [0274-h-index](https://github.com/vickyliuwt/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0275-h-index-ii/) | Medium |
 | [0280-wiggle-sort](https://github.com/vickyliuwt/LeetCode/tree/main/0280-wiggle-sort/) | Medium |
+| [0281-zigzag-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0289-game-of-life](https://github.com/vickyliuwt/LeetCode/tree/main/0289-game-of-life/) | Medium |
@@ -1043,6 +1044,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/vickyliuwt/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0251-flatten-2d-vector](https://github.com/vickyliuwt/LeetCode/tree/main/0251-flatten-2d-vector/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0271-encode-and-decode-strings/) | Medium |
+| [0281-zigzag-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/vickyliuwt/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
@@ -1474,6 +1476,7 @@
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0251-flatten-2d-vector](https://github.com/vickyliuwt/LeetCode/tree/main/0251-flatten-2d-vector/) | Medium |
+| [0281-zigzag-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1542,6 +1545,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vickyliuwt/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/vickyliuwt/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0281-zigzag-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
 | [0649-dota2-senate](https://github.com/vickyliuwt/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/vickyliuwt/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
