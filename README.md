@@ -114,6 +114,7 @@
 | [0284-peeking-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0284-peeking-iterator/) | Medium |
 | [0286-walls-and-gates](https://github.com/vickyliuwt/LeetCode/tree/main/0286-walls-and-gates/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0288-unique-word-abbreviation](https://github.com/vickyliuwt/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0289-game-of-life](https://github.com/vickyliuwt/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0311-sparse-matrix-multiplication](https://github.com/vickyliuwt/LeetCode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
@@ -444,6 +445,7 @@
 | [0266-palindrome-permutation](https://github.com/vickyliuwt/LeetCode/tree/main/0266-palindrome-permutation/) | Easy |
 | [0267-palindrome-permutation-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0267-palindrome-permutation-ii/) | Medium |
 | [0268-missing-number](https://github.com/vickyliuwt/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0288-unique-word-abbreviation](https://github.com/vickyliuwt/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0311-sparse-matrix-multiplication](https://github.com/vickyliuwt/LeetCode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
@@ -853,6 +855,7 @@
 | [0271-encode-and-decode-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0273-integer-to-english-words](https://github.com/vickyliuwt/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0282-expression-add-operators](https://github.com/vickyliuwt/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
+| [0288-unique-word-abbreviation](https://github.com/vickyliuwt/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -1058,6 +1061,7 @@
 | [0271-encode-and-decode-strings](https://github.com/vickyliuwt/LeetCode/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0281-zigzag-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
 | [0284-peeking-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0284-peeking-iterator/) | Medium |
+| [0288-unique-word-abbreviation](https://github.com/vickyliuwt/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/vickyliuwt/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
