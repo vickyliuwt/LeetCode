@@ -447,6 +447,7 @@
 | [0268-missing-number](https://github.com/vickyliuwt/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0288-unique-word-abbreviation](https://github.com/vickyliuwt/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0291-word-pattern-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
 | [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0311-sparse-matrix-multiplication](https://github.com/vickyliuwt/LeetCode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -857,6 +858,7 @@
 | [0282-expression-add-operators](https://github.com/vickyliuwt/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
 | [0288-unique-word-abbreviation](https://github.com/vickyliuwt/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0291-word-pattern-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
 | [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/vickyliuwt/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -1534,6 +1536,7 @@
 | [0257-binary-tree-paths](https://github.com/vickyliuwt/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0267-palindrome-permutation-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0267-palindrome-permutation-ii/) | Medium |
 | [0282-expression-add-operators](https://github.com/vickyliuwt/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
+| [0291-word-pattern-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/vickyliuwt/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Newton's Method
