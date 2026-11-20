@@ -204,6 +204,7 @@
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vickyliuwt/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/vickyliuwt/LeetCode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vickyliuwt/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vickyliuwt/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/vickyliuwt/LeetCode/tree/main/3078-match-alphanumerical-pattern-in-matrix-i/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -343,6 +344,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vickyliuwt/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vickyliuwt/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vickyliuwt/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vickyliuwt/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/vickyliuwt/LeetCode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -553,6 +555,7 @@
 | [2542-maximum-subsequence-score](https://github.com/vickyliuwt/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vickyliuwt/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/vickyliuwt/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vickyliuwt/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/vickyliuwt/LeetCode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vickyliuwt/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
