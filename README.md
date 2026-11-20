@@ -112,6 +112,7 @@
 | [0281-zigzag-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0284-peeking-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0284-peeking-iterator/) | Medium |
+| [0286-walls-and-gates](https://github.com/vickyliuwt/LeetCode/tree/main/0286-walls-and-gates/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0289-game-of-life](https://github.com/vickyliuwt/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -691,6 +692,7 @@
 | [0261-graph-valid-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0286-walls-and-gates](https://github.com/vickyliuwt/LeetCode/tree/main/0286-walls-and-gates/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
@@ -746,6 +748,7 @@
 | [0212-word-search-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0221-maximal-square](https://github.com/vickyliuwt/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0286-walls-and-gates](https://github.com/vickyliuwt/LeetCode/tree/main/0286-walls-and-gates/) | Medium |
 | [0289-game-of-life](https://github.com/vickyliuwt/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0311-sparse-matrix-multiplication](https://github.com/vickyliuwt/LeetCode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vickyliuwt/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
