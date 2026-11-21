@@ -322,6 +322,7 @@
 | [0265-paint-house-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0265-paint-house-ii/) | Hard |
 | [0276-paint-fence](https://github.com/vickyliuwt/LeetCode/tree/main/0276-paint-fence/) | Medium |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0294-flip-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0294-flip-game-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/vickyliuwt/LeetCode/tree/main/0338-counting-bits/) | Easy |
@@ -974,6 +975,7 @@
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0282-expression-add-operators](https://github.com/vickyliuwt/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
 | [0292-nim-game](https://github.com/vickyliuwt/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [0294-flip-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0294-flip-game-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0441-arranging-coins](https://github.com/vickyliuwt/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vickyliuwt/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -1315,6 +1317,7 @@
 | [0139-word-break](https://github.com/vickyliuwt/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0294-flip-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0294-flip-game-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/vickyliuwt/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vickyliuwt/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 ## Brute-Force Search
@@ -1448,11 +1451,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/vickyliuwt/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [0294-flip-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0294-flip-game-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/vickyliuwt/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/vickyliuwt/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [0294-flip-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0294-flip-game-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/vickyliuwt/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1927-sum-game](https://github.com/vickyliuwt/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Zero-Sum Game
@@ -1546,6 +1551,7 @@
 | [0267-palindrome-permutation-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0267-palindrome-permutation-ii/) | Medium |
 | [0282-expression-add-operators](https://github.com/vickyliuwt/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
 | [0291-word-pattern-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
+| [0294-flip-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0294-flip-game-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/vickyliuwt/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Newton's Method
@@ -1752,4 +1758,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/vickyliuwt/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [0294-flip-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0294-flip-game-ii/) | Medium |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0294-flip-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0294-flip-game-ii/) | Medium |
 <!---LeetCode Topics End-->
