@@ -262,6 +262,7 @@
 | [0277-find-the-celebrity](https://github.com/vickyliuwt/LeetCode/tree/main/0277-find-the-celebrity/) | Medium |
 | [0283-move-zeroes](https://github.com/vickyliuwt/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/vickyliuwt/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0321-create-maximum-number](https://github.com/vickyliuwt/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0344-reverse-string](https://github.com/vickyliuwt/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -534,6 +535,7 @@
 | [0268-missing-number](https://github.com/vickyliuwt/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/vickyliuwt/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0280-wiggle-sort](https://github.com/vickyliuwt/LeetCode/tree/main/0280-wiggle-sort/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/vickyliuwt/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vickyliuwt/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vickyliuwt/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -575,6 +577,7 @@
 | [0218-the-skyline-problem](https://github.com/vickyliuwt/LeetCode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0253-meeting-rooms-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/vickyliuwt/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vickyliuwt/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0502-ipo](https://github.com/vickyliuwt/LeetCode/tree/main/0502-ipo/) | Hard |
@@ -1072,6 +1075,7 @@
 | [0281-zigzag-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
 | [0284-peeking-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0284-peeking-iterator/) | Medium |
 | [0288-unique-word-abbreviation](https://github.com/vickyliuwt/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/vickyliuwt/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/vickyliuwt/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
@@ -1600,6 +1604,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/vickyliuwt/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/vickyliuwt/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/vickyliuwt/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Ordered Set
