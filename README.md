@@ -862,6 +862,7 @@
 | [0288-unique-word-abbreviation](https://github.com/vickyliuwt/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0291-word-pattern-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
+| [0293-flip-game](https://github.com/vickyliuwt/LeetCode/tree/main/0293-flip-game/) | Easy |
 | [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/vickyliuwt/LeetCode/tree/main/0344-reverse-string/) | Easy |
