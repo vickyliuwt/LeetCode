@@ -116,6 +116,7 @@
 | [0287-find-the-duplicate-number](https://github.com/vickyliuwt/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0288-unique-word-abbreviation](https://github.com/vickyliuwt/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0289-game-of-life](https://github.com/vickyliuwt/LeetCode/tree/main/0289-game-of-life/) | Medium |
+| [0296-best-meeting-point](https://github.com/vickyliuwt/LeetCode/tree/main/0296-best-meeting-point/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/vickyliuwt/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0311-sparse-matrix-multiplication](https://github.com/vickyliuwt/LeetCode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0321-create-maximum-number](https://github.com/vickyliuwt/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
@@ -536,6 +537,7 @@
 | [0274-h-index](https://github.com/vickyliuwt/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0280-wiggle-sort](https://github.com/vickyliuwt/LeetCode/tree/main/0280-wiggle-sort/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/vickyliuwt/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0296-best-meeting-point](https://github.com/vickyliuwt/LeetCode/tree/main/0296-best-meeting-point/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/vickyliu03/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vickyliuwt/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vickyliuwt/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -760,6 +762,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0286-walls-and-gates](https://github.com/vickyliuwt/LeetCode/tree/main/0286-walls-and-gates/) | Medium |
 | [0289-game-of-life](https://github.com/vickyliuwt/LeetCode/tree/main/0289-game-of-life/) | Medium |
+| [0296-best-meeting-point](https://github.com/vickyliuwt/LeetCode/tree/main/0296-best-meeting-point/) | Hard |
 | [0311-sparse-matrix-multiplication](https://github.com/vickyliuwt/LeetCode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vickyliuwt/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0427-construct-quad-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
@@ -979,6 +982,7 @@
 | [0282-expression-add-operators](https://github.com/vickyliuwt/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
 | [0292-nim-game](https://github.com/vickyliuwt/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0294-flip-game-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0294-flip-game-ii/) | Medium |
+| [0296-best-meeting-point](https://github.com/vickyliuwt/LeetCode/tree/main/0296-best-meeting-point/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0441-arranging-coins](https://github.com/vickyliuwt/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vickyliuwt/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
