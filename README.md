@@ -209,6 +209,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vickyliuwt/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/vickyliuwt/LeetCode/tree/main/3078-match-alphanumerical-pattern-in-matrix-i/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vickyliuwt/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/vickyliuwt/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -482,6 +483,7 @@
 | [2935-maximum-strong-pair-xor-ii](https://github.com/vickyliuwt/LeetCode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vickyliuwt/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/vickyliuwt/LeetCode/tree/main/3078-match-alphanumerical-pattern-in-matrix-i/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vickyliuwt/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vickyliuwt/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -669,6 +671,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vickyliuwt/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vickyliuwt/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/vickyliuwt/LeetCode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vickyliuwt/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vickyliuwt/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -900,6 +903,7 @@
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vickyliuwt/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vickyliuwt/LeetCode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/vickyliuwt/LeetCode/tree/main/3078-match-alphanumerical-pattern-in-matrix-i/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vickyliuwt/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vickyliuwt/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -1152,6 +1156,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vickyliuwt/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vickyliuwt/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/vickyliuwt/LeetCode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vickyliuwt/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
