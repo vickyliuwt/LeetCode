@@ -657,6 +657,7 @@
 | [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0270-closest-binary-search-tree-value](https://github.com/vickyliuwt/LeetCode/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0285-inorder-successor-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0285-inorder-successor-in-bst/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0364-nested-list-weight-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/vickyliuwt/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vickyliuwt/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -706,6 +707,7 @@
 | [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0279-perfect-squares](https://github.com/vickyliuwt/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0286-walls-and-gates](https://github.com/vickyliuwt/LeetCode/tree/main/0286-walls-and-gates/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
@@ -871,6 +873,7 @@
 | [0290-word-pattern](https://github.com/vickyliuwt/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0291-word-pattern-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
 | [0293-flip-game](https://github.com/vickyliuwt/LeetCode/tree/main/0293-flip-game/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0299-bulls-and-cows](https://github.com/vickyliuwt/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/vickyliuwt/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -1082,6 +1085,7 @@
 | [0284-peeking-iterator](https://github.com/vickyliuwt/LeetCode/tree/main/0284-peeking-iterator/) | Medium |
 | [0288-unique-word-abbreviation](https://github.com/vickyliuwt/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/vickyliuwt/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/vickyliuwt/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/vickyliuwt/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
@@ -1157,6 +1161,7 @@
 | [0257-binary-tree-paths](https://github.com/vickyliuwt/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0270-closest-binary-search-tree-value](https://github.com/vickyliuwt/LeetCode/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0285-inorder-successor-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0285-inorder-successor-in-bst/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0427-construct-quad-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -1211,6 +1216,7 @@
 | [0257-binary-tree-paths](https://github.com/vickyliuwt/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0270-closest-binary-search-tree-value](https://github.com/vickyliuwt/LeetCode/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0285-inorder-successor-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0285-inorder-successor-in-bst/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
