@@ -658,6 +658,7 @@
 | [0270-closest-binary-search-tree-value](https://github.com/vickyliuwt/LeetCode/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0285-inorder-successor-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0285-inorder-successor-in-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/vickyliuwt/LeetCode/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/vickyliuwt/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vickyliuwt/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -1162,6 +1163,7 @@
 | [0270-closest-binary-search-tree-value](https://github.com/vickyliuwt/LeetCode/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0285-inorder-successor-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0285-inorder-successor-in-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/vickyliuwt/LeetCode/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0427-construct-quad-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -1217,6 +1219,7 @@
 | [0270-closest-binary-search-tree-value](https://github.com/vickyliuwt/LeetCode/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [0285-inorder-successor-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0285-inorder-successor-in-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/vickyliuwt/LeetCode/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0437-path-sum-iii](https://github.com/vickyliuwt/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -1323,6 +1326,7 @@
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vickyliuwt/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0250-count-univalue-subtrees](https://github.com/vickyliuwt/LeetCode/tree/main/0250-count-univalue-subtrees/) | Medium |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/vickyliuwt/LeetCode/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
