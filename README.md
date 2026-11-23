@@ -172,6 +172,7 @@
 | [1254-number-of-closed-islands](https://github.com/vickyliuwt/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/vickyliuwt/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1268-search-suggestions-system](https://github.com/vickyliuwt/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/vickyliuwt/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vickyliuwt/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vickyliuwt/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/vickyliuwt/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -997,6 +998,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/vickyliuwt/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vickyliuwt/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/vickyliuwt/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vickyliuwt/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1927-sum-game](https://github.com/vickyliuwt/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/vickyliuwt/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
@@ -1084,6 +1086,7 @@
 | [0895-maximum-frequency-stack](https://github.com/vickyliuwt/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/vickyliuwt/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/vickyliuwt/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/vickyliuwt/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -1413,6 +1416,7 @@
 | [0724-find-pivot-index](https://github.com/vickyliuwt/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1000-minimum-cost-to-merge-stones](https://github.com/vickyliuwt/LeetCode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/vickyliuwt/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vickyliuwt/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vickyliuwt/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/vickyliuwt/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -1611,6 +1615,7 @@
 | [0295-find-median-from-data-stream](https://github.com/vickyliuwt/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/vickyliuwt/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/vickyliuwt/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/vickyliuwt/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
