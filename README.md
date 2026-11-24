@@ -213,6 +213,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/vickyliuwt/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vickyliuwt/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/vickyliuwt/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -942,6 +943,7 @@
 | [2935-maximum-strong-pair-xor-ii](https://github.com/vickyliuwt/LeetCode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vickyliuwt/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/vickyliuwt/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vickyliuwt/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/vickyliuwt/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/vickyliuwt/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -1006,6 +1008,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vickyliuwt/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1927-sum-game](https://github.com/vickyliuwt/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/vickyliuwt/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vickyliuwt/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vickyliuwt/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -1727,6 +1730,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/vickyliuwt/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vickyliuwt/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/vickyliuwt/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -1738,6 +1742,7 @@
 | [0204-count-primes](https://github.com/vickyliuwt/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/vickyliuwt/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1201-ugly-number-iii](https://github.com/vickyliuwt/LeetCode/tree/main/1201-ugly-number-iii/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vickyliuwt/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Least Common Multiple
 | Problem Name | Difficulty |
 | ------- | ------- |
