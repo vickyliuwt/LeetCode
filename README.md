@@ -1008,6 +1008,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vickyliuwt/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1927-sum-game](https://github.com/vickyliuwt/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/vickyliuwt/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/vickyliuwt/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vickyliuwt/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vickyliuwt/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -1036,6 +1037,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/vickyliuwt/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vickyliuwt/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [3360-stone-removal-game](https://github.com/vickyliuwt/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/vickyliuwt/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3923-minimum-generations-to-target-point](https://github.com/vickyliuwt/LeetCode/tree/main/3923-minimum-generations-to-target-point/) | Medium |
