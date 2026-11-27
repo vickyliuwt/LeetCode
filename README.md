@@ -232,6 +232,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/vickyliuwt/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3923-minimum-generations-to-target-point](https://github.com/vickyliuwt/LeetCode/tree/main/3923-minimum-generations-to-target-point/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vickyliuwt/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vickyliuwt/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,6 +360,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/vickyliuwt/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/vickyliuwt/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vickyliuwt/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vickyliuwt/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1299,6 +1301,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vickyliuwt/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vickyliuwt/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/vickyliuwt/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vickyliuwt/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
