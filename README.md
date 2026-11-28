@@ -676,6 +676,7 @@
 | [0285-inorder-successor-in-bst](https://github.com/vickyliuwt/LeetCode/tree/main/0285-inorder-successor-in-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/vickyliuwt/LeetCode/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [0310-minimum-height-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/vickyliuwt/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vickyliuwt/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -727,6 +728,7 @@
 | [0286-walls-and-gates](https://github.com/vickyliuwt/LeetCode/tree/main/0286-walls-and-gates/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/vickyliuwt/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0310-minimum-height-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0322-coin-change](https://github.com/vickyliuwt/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/vickyliuwt/LeetCode/tree/main/0399-evaluate-division/) | Medium |
@@ -812,6 +814,7 @@
 | [0261-graph-valid-tree](https://github.com/vickyliuwt/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0277-find-the-celebrity](https://github.com/vickyliuwt/LeetCode/tree/main/0277-find-the-celebrity/) | Medium |
+| [0310-minimum-height-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0399-evaluate-division](https://github.com/vickyliuwt/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/vickyliuwt/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vickyliuwt/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -824,6 +827,7 @@
 | [0207-course-schedule](https://github.com/vickyliuwt/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/vickyliuwt/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0269-alien-dictionary](https://github.com/vickyliuwt/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
+| [0310-minimum-height-trees](https://github.com/vickyliuwt/LeetCode/tree/main/0310-minimum-height-trees/) | Medium |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/vickyliuwt/LeetCode/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 ## String
 | Problem Name | Difficulty |
